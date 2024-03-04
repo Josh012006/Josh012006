@@ -1,9 +1,9 @@
 # Hello😁, I'm Josue MONGAN
   - I'm currently learning Software Development👨🏽‍💻 at Gomycode.
-  - 💪🏽Skills: I've learnt how to use HTML5, CSS3 and some of its frameworks(Bootstrap, Tailwind), JavaScript with DOM and ES6. I also know how to write code in C++(Basics and STL) and in C.
+  - 💪🏽Skills: I've learnt how to use HTML5, CSS3 and some of its frameworks(Bootstrap, Tailwind), JavaScript with DOM and ES6. I also know how to write code in C++(Basics, SFML and STL) and in C.
   - 🔍 I'm looking for a remote internship as a junior software developer.
   - How to reach me: josuesmjr.mongan@gmail.com
-  - Hobbies🥳: I really love computer science and always liked discovering new things by disassembling🔧 electronic devices. 🎹📚I also play piano and I like reading a lot.
+  - Hobbies🥳: I really love computer science and always liked discovering new things by disassembling🔧 electronic devices. 🎹📚 I also play piano and I like reading a lot.
 
 # 📪Let's connect
 Linkedin: https://www.linkedin.com/in/josu%C3%A9-st-martin-jr-mongan-a7b6242b8/
