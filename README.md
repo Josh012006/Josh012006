@@ -1,3 +1,5 @@
+[![CodeWars Badge](https://www.codewars.com/users/Josh012006/badges/large)](https://www.codewars.com/users/Josh012006)
+
 # Hello😁, I'm Josué MONGAN
   - I'm currently learning Software Development👨🏽‍💻 at Gomycode.
   - 💪🏽Skills: I've learnt how to use HTML5, CSS3 and some of its frameworks(Bootstrap, Tailwind), JavaScript with DOM and ES6. I also know how to write code in C++(Basics, SFML and STL) and in C.
