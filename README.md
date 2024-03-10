@@ -14,7 +14,7 @@ Linkedin: https://www.linkedin.com/in/josu%C3%A9-st-martin-jr-mongan-a7b6242b8/
 ![C++](images/cpp.png) ![C](images/c.png) ![JavaScript](images/js.png) ![HTML5](images/html.png) ![CSS3](images/css.png) ![Python](images/python.png)
 
 # Tools
-![OpenCV](images/opencv.svg)
+![OpenCV](images/opencv.png) ![Git](images/git.png)
 
 # Some of my achievements
   - Edabit: https://edabit.com/user/X6cvktRthAp3xdGBw
