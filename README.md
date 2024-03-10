@@ -10,6 +10,9 @@
 # 📪Let's connect
 Linkedin: https://www.linkedin.com/in/josu%C3%A9-st-martin-jr-mongan-a7b6242b8/
 
+# Languages
+
+
 # Some of my achievements
   - Edabit: https://edabit.com/user/X6cvktRthAp3xdGBw
   - CodeWars: https://www.codewars.com/users/Josh012006
