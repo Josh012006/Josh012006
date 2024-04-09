@@ -26,5 +26,7 @@ Linkedin: https://www.linkedin.com/in/josu%C3%A9-st-martin-jr-mongan-a7b6242b8/
   - CodeWars: https://www.codewars.com/users/Josh012006
   - Codingame: https://www.codingame.com/profile/6b5fb48d2ae5c775c85fb627283309be6978985
   - Codecademy: https://www.codecademy.com/profiles/css4797044962
+
+
 You can find all my certificates and proofs on my Linkedin Profile page.
 
