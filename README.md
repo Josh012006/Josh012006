@@ -16,7 +16,10 @@
 Linkedin: https://www.linkedin.com/in/josu%C3%A9-st-martin-jr-mongan-a7b6242b8/
 
 # Languages
-![C++](images/cpp.png) ![C](images/c.png) ![JavaScript](images/js.png) ![HTML5](images/html.png) ![CSS3](images/css.png) ![Python](images/python.png) ![SQL](images/sql.png) ![MongoDB](images/mongodb.png)
+![C++](images/cpp.png) ![C](images/c.png) 
+![JavaScript](images/js.png) ![HTML5](images/html.png) ![CSS3](images/css.png)
+![SQL](images/sql.png) ![MongoDB](images/mongodb.png)
+![Python](images/python.png)
 
 # Tools
 ![Git](images/git.png) ![MongoDb Compass](images/compass.png) ![OpenCV](images/opencv.png)
