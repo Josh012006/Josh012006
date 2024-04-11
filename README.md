@@ -10,7 +10,7 @@
       * I also learnt NoSQL using MongoDB. 
   - 🔍 I'm looking for a remote internship as a junior software developer.
   - How to reach me: josuesmjr.mongan@gmail.com
-  - Hobbies🥳: I really love computer science and always liked discovering new things by disassembling🔧 electronic devices. 🎹📚 I also play piano and I like reading a lot.
+  - Fun facts🥳: I really love computer science and always liked discovering new things by disassembling🔧 electronic devices. 🎹📚 I also play piano and I like reading a lot.
 
 # 📪Let's connect
 Linkedin: https://www.linkedin.com/in/josu%C3%A9-st-martin-jr-mongan-a7b6242b8/
