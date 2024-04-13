@@ -12,10 +12,6 @@
   - How to reach me: josuesmjr.mongan@gmail.com
   - Fun facts🥳: I really love computer science and always liked discovering new things by disassembling🔧 electronic devices. 🎹📚 I also play piano and I like reading a lot.
 
-## 📪Let's connect
-Linkedin: https://www.linkedin.com/in/josu%C3%A9-st-martin-jr-mongan-a7b6242b8/
-
-
 ___
 ### Languages
 
@@ -27,6 +23,7 @@ ___
 ### Tools
 
 ![Git](images/git.png) ![MongoDb Compass](images/compass.png) ![OpenCV](images/opencv.png)
+___
 
 ## Some of my achievements
   - Edabit: https://edabit.com/user/X6cvktRthAp3xdGBw
@@ -34,6 +31,7 @@ ___
   - Codingame: https://www.codingame.com/profile/6b5fb48d2ae5c775c85fb627283309be6978985
   - Codecademy: https://www.codecademy.com/profiles/css4797044962
 
-
+## 📪Let's connect
+Linkedin: https://www.linkedin.com/in/josu%C3%A9-st-martin-jr-mongan-a7b6242b8/
 You can find all my certificates and proofs on my Linkedin Profile page.
 
