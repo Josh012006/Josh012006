@@ -3,11 +3,11 @@
 ## Hello😁, I'm Josué
   - I'm currently learning Software Development👨🏽‍💻 at Gomycode.
   - 💪🏽Skills:
-      * I also know how to write code in C++(Basics, SFML and STL) and in C.
       * I've learnt how to use HTML5, CSS3 and some of its frameworks(Bootstrap, Tailwind).
       * JavaScript with DOM and ES6 is also part of my skills.
+      * I know how to write code in C++(Basics, SFML and STL) and in C.
       * I also know how to write queries in SQL (DDL, DML and DQL).
-      * I also learnt NoSQL using MongoDB. 
+      * I learnt NoSQL using MongoDB too. 
   - 🔍 I'm looking for a remote internship as a junior software developer.
   - How to reach me: josuesmjr.mongan@gmail.com
   - Fun facts🥳: I really love computer science and always liked discovering new things by disassembling🔧 electronic devices. 🎹📚 I also play piano and I like reading a lot.
