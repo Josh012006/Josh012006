@@ -1,4 +1,4 @@
-[![CodeWars Badge](https://www.codewars.com/users/Josh012006/badges/medium)](https://www.codewars.com/users/Josh012006)
+[![CodeWars Badge](https://www.codewars.com/users/Josh012006/badges/large)](https://www.codewars.com/users/Josh012006)
 
 ## Hello😁, I'm Josué
   - I'm currently learning Software Development👨🏽‍💻 at Gomycode.
