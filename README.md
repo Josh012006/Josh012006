@@ -1,6 +1,6 @@
 [![CodeWars Badge](https://www.codewars.com/users/Josh012006/badges/large)](https://www.codewars.com/users/Josh012006)
 
-# Hello😁, I'm Josué
+## Hello😁, I'm Josué
   - I'm currently learning Software Development👨🏽‍💻 at Gomycode.
   - 💪🏽Skills:
       * I also know how to write code in C++(Basics, SFML and STL) and in C.
