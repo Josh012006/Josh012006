@@ -15,13 +15,10 @@
 ___
 ### Languages
 
-![JavaScript](images/js.png) ![HTML5](images/html.png) ![CSS3](images/css.png)
-
-![SQL](images/sql.png) ![MongoDB](images/mongodb.png)
-
-![C++](images/cpp.png) ![C](images/c.png) 
-
-![Python](images/python.png)
+![HTML5](images/html.png) ![CSS3](images/css.png) ![JavaScript](images/js.png)  
+![SQL](images/sql.png) ![MongoDB](images/mongodb.png)  
+![C++](images/cpp.png) ![C](images/c.png)   
+![Python](images/python.png)  
 
 ### Tools
 
