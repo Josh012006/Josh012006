@@ -16,7 +16,7 @@ ___
 ### Languages
 
 ![HTML5](images/html.png) ![CSS3](images/css.png) ![JavaScript](images/js.png)  
-![SQL](images/sql.png) ![MongoDB](images/mongodb.png)  
+![SQL](images/sql.png) ![MySQL](images/mysql.png) ![MongoDB](images/mongodb.png)  
 ![C++](images/cpp.png) ![C](images/c.png)   
 ![Python](images/python.png)  
 
