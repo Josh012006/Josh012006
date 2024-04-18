@@ -17,14 +17,14 @@
 ___
 ### Languages
 
-![HTML5](images/html.png) ![CSS3](images/css.png) ![JavaScript](images/js.png)  
-![SQL](images/sql.png) ![MySQL](images/mysql.png) ![MongoDB](images/mongodb.png)  
-![C++](images/cpp.png) ![C](images/c.png)   
+![HTML5](images/html.png)  ![CSS3](images/css.png)  ![JavaScript](images/js.png)  
+![SQL](images/sql.png)  ![MySQL](images/mysql.png)  ![MongoDB](images/mongodb.png)  
+![C++](images/cpp.png)  ![C](images/c.png)   
 ![Python](images/python.png)  
 
 ### Tools and Librairies
 
-![SASS](images/sass.png) ![Git](images/git.png) ![MongoDb Compass](images/compass.png)  ![OpenCV](images/opencv.png) ![SFML](images/sfml.png) ![Node.js](images/node.png) ![Express.js](images/express.png) ![Pug.js](images/pug.png) ![Handlebars.js](images/hbs.png)
+![SASS](images/sass.png)  ![Git](images/git.png)  ![MongoDb Compass](images/compass.png)  ![OpenCV](images/opencv.png)  ![SFML](images/sfml.png)  ![Node.js](images/node.png)  ![Express.js](images/express.png)  ![Pug.js](images/pug.png)  ![Handlebars.js](images/hbs.png)
 ___
 
 ## Some of my achievements
