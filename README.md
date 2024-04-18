@@ -7,7 +7,9 @@
       * JavaScript with DOM and ES6 is also part of my skills.
       * I know how to write code in C++(Basics, SFML and STL) and in C.
       * I also know how to write queries in SQL (DDL, DML and DQL).
-      * I learnt NoSQL using MongoDB too. 
+      * I learnt NoSQL using MongoDB too.
+      * I know how to use Node.js to buils server applications.
+      * Another one of my skills is my ability to use Express.js with template engines like Handlebars and Pug.
   - 🔍 I'm looking for a remote internship as a junior software developer.
   - How to reach me: josuesmjr.mongan@gmail.com
   - Fun facts🥳: I really love computer science and always liked discovering new things by disassembling🔧 electronic devices. 🎹📚 I also play piano and I like reading a lot.
@@ -20,9 +22,9 @@ ___
 ![C++](images/cpp.png) ![C](images/c.png)   
 ![Python](images/python.png)  
 
-### Tools
+### Tools and Librairies
 
-![SASS](images/sass.png) ![Git](images/git.png) ![MongoDb Compass](images/compass.png) ![OpenCV](images/opencv.png) ![SFML](images/sfml.png) ![Node.js](images/node.png)
+![SASS](images/sass.png) ![Git](images/git.png) ![MongoDb Compass](images/compass.png) ![OpenCV](images/opencv.png) ![SFML](images/sfml.png) ![Node.js](images/node.png) ![Express.js](images/express.png) ![Pug.js](images/pug.png) ![Handlebars.js](images/hbs.png)
 ___
 
 ## Some of my achievements
