@@ -24,7 +24,7 @@ ___
 
 ### Tools and Librairies
 
-![SASS](images/sass.png)  ![Git](images/git.png)  ![MongoDb Compass](images/compass.png)  ![OpenCV](images/opencv.png)  ![SFML](images/sfml.png)  ![Node.js](images/node.png)   ![Express.js](images/express.png)  ![Pug.js](images/pug.png)  ![Handlebars.js](images/hbs.png)
+![SASS](images/sass.png)  ![Git](images/git.png)  ![MongoDb Compass](images/compass.png)  ![OpenCV](images/opencv.png)  ![SFML](images/sfml.png)  ![Node.js](images/node.png)  ![Express.js](images/express.png)  ![Pug.js](images/pug.png)  ![Handlebars.js](images/hbs.png)
 ___
 
 ## Some of my achievements
