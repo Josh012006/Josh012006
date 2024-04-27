@@ -7,7 +7,7 @@
       * JavaScript with DOM and ES6 is also part of my skills.
       * I know how to write code in C++(Basics, SFML and STL) and in C.
       * I also know how to write queries in SQL (DDL, DML and DQL).
-      * I learnt NoSQL using MongoDB too.
+      * I learnt NoSQL using MongoDB and Mongoose too.
       * I know how to use Node.js to buils server applications.
       * Another one of my skills is my ability to use Express.js with template engines like Handlebars and Pug.
   - 🔍 I'm looking for a remote internship as a junior software developer.
