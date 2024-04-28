@@ -40,6 +40,9 @@ ___
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Josh012006&repo=Weather-App)](https://github.com/Josh012006/Weather-App)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Josh012006&repo=RPG-Game)](https://github.com/Josh012006/RPG-Game)
 
+  ## Weather App
+  A simple JavaScript based web app that helps you see the weather.
+
 ## Some of my achievements
   - Edabit: https://edabit.com/user/X6cvktRthAp3xdGBw
   - CodeWars: https://www.codewars.com/users/Josh012006
