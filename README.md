@@ -38,12 +38,8 @@ ___
 
 ## Top repositories
 <div align=space-around>
-  <div>
-    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Josh012006&repo=Weather-App)](https://github.com/Josh012006/Weather-App)
-  </div>
-  <div>
-    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Josh012006&repo=RPG-Game)](https://github.com/Josh012006/RPG-Game)
-  </div>
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Josh012006&repo=Weather-App)](https://github.com/Josh012006/Weather-App)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Josh012006&repo=RPG-Game)](https://github.com/Josh012006/RPG-Game)
 </div>
 
 ## Some of my achievements
