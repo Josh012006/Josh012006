@@ -37,7 +37,7 @@ ___
 </table>
 
 ## Top repositories
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Josh012006&repo=Weather-App)](https://github.com/Josh012006/Weather-App)
 
 ## Some of my achievements
   - Edabit: https://edabit.com/user/X6cvktRthAp3xdGBw
