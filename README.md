@@ -36,6 +36,8 @@ ___
   </tr>
 </table>
 
+## Top repositories
+1. [Weather App](https://github.com/Josh012006/Weather-App) - A simple JavaScript based web app that helps you see the weather.
 
 ## Some of my achievements
   - Edabit: https://edabit.com/user/X6cvktRthAp3xdGBw
