@@ -37,15 +37,7 @@ ___
 </table>
 
 ## Top repositories
-<div class="repository-card">
-  <a href="https://github.com/Josh012006/Weather-App">
-    <img src="lien_vers_l_image_du_depot_1" alt="Capture d'écran du dépôt Weather App">
-    <div class="repository-details">
-      <h3>Weather App</h3>
-      <p>A simple JavaScript based web app that helps you see the weather.</p>
-    </div>
-  </a>
-</div>
+
 
 ## Some of my achievements
   - Edabit: https://edabit.com/user/X6cvktRthAp3xdGBw
