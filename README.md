@@ -1,9 +1,9 @@
 <table style="width: 100%;">
   <tr>
-    <td style="width: 40%; text-align: center;">
-      <a href="https://www.codewars.com/users/Josh012006"><img src="https://www.codewars.com/users/Josh012006/badges/large" alt="CodeWars Badge" style="max-width: 100%; height: auto;"></a>
+    <td style="width: 50%; text-align: center;">
+      <a href="https://www.codewars.com/users/Josh012006" target = "_blank"><img src="https://www.codewars.com/users/Josh012006/badges/small" alt="CodeWars Badge" style="max-width: 100%; height: auto;"></a>
     </td>
-    <td style="width: 60%; text-align: center;">
+    <td style="width: 50%; text-align: center;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josh012006" alt="Top Langs" style="max-width: 100%; height: auto;">
     </td>
   </tr>
