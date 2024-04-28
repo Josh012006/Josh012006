@@ -1,4 +1,4 @@
-<table style="width: 100%;">
+<table style="width: 100%; text-align: center;">
   <tr>
     <td style="width: 50%; text-align: center;">
       <a href="https://www.codewars.com/users/Josh012006" target = "_blank"><img src="https://www.codewars.com/users/Josh012006/badges/small" alt="CodeWars Badge" style="max-width: 100%; height: auto;"></a>
