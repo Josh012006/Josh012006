@@ -1,11 +1,13 @@
-<div style="width: 100%;display: flex; justify-content: space-around; align-items: center;">
-    <div style="text-align: center;">
+<table style="width: 100%;">
+  <tr>
+    <td style="width: 50%; text-align: center;">
       <a href="https://www.codewars.com/users/Josh012006"><img src="https://www.codewars.com/users/Josh012006/badges/large" alt="CodeWars Badge"></a>
-    </div>
-    <div style="text-align: center;">
+    </td>
+    <td style="width: 50%; text-align: center;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josh012006" alt="Top Langs">
-    </div>
-</div>
+    </td>
+  </tr>
+</table>
 
 ## Hello😁, I'm Josué
   - I'm currently learning Software Development👨🏽‍💻 at Gomycode.
