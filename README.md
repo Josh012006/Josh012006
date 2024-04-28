@@ -1,3 +1,27 @@
+<style>
+  .language-card-wrapper {
+    border: 1px solid #e1e4e8;
+    border-radius: 6px;
+    padding: 16px;
+    background-color: #f6f8fa;
+  }
+  .language-card {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    align-items: center;
+  }
+  .language-card-item {
+    display: flex;
+    align-items: center;
+    font-size: 14px;
+    padding: 4px 8px;
+    border-radius: 4px;
+    background-color: #0366d6;
+    color: #ffffff;
+  }
+</style>
+
 <table align=center style="width: 100%;">
   <tr>
     <td style="width: 50%; text-align: center;">
