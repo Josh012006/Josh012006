@@ -11,7 +11,7 @@
 
 
 ## Hello😁, I'm Josué
-  - I'm currently learning Software Development👨🏽‍💻 at Gomycode.
+  - I'm currently learning Software Development👨🏽‍💻 at Gomycode and working on a mini 2D game 🎮project in C++ on my own.
   - 💪🏽Skills:
       * I've learnt how to use HTML5, CSS3 and some of its frameworks(Bootstrap, Tailwind).
       * JavaScript with DOM and ES6 is also part of my skills.
