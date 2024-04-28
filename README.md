@@ -1,31 +1,7 @@
-<style>
-  .language-card-wrapper {
-    border: 1px solid #e1e4e8;
-    border-radius: 6px;
-    padding: 16px;
-    background-color: #f6f8fa;
-  }
-  .language-card {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 10px;
-    align-items: center;
-  }
-  .language-card-item {
-    display: flex;
-    align-items: center;
-    font-size: 14px;
-    padding: 4px 8px;
-    border-radius: 4px;
-    background-color: #0366d6;
-    color: #ffffff;
-  }
-</style>
-
 <table align=center style="width: 100%;">
   <tr>
     <td style="width: 50%; text-align: center;">
-      <a href="https://www.codewars.com/users/Josh012006" target = "_blank"><img src="https://www.codewars.com/users/Josh012006/badges/small" alt="CodeWars Badge" style="max-width: 100%; height: auto;"></a>
+      <a href="https://www.codewars.com/users/Josh012006" target = "_blank"><img src="https://www.codewars.com/users/Josh012006/badges/small" alt="CodeWars Badge" style="max-width: 100%; height: auto; background-color: black;"></a>
     </td>
     <td style="width: 50%; text-align: center;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josh012006" alt="Top Langs" style="max-width: 100%; height: auto;">
