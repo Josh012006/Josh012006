@@ -1,15 +1,3 @@
-<table align=center style="width: 100%;">
-  <tr>
-    <td style="width: 50%; text-align: center;">
-      <a href="https://www.codewars.com/users/Josh012006" target = "_blank"><img src="https://www.codewars.com/users/Josh012006/badges/small" alt="CodeWars Badge" style="max-width: 100%; height: auto;"></a>
-    </td>
-    <td style="width: 50%; text-align: center;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josh012006&layout=donut-vertical&langs_count=10" alt="Top Langs" style="max-width: 100%; height: auto;">
-    </td>
-  </tr>
-</table>
-
-
 ## Hello😁, I'm Josué
   - I'm currently learning Software Development👨🏽‍💻 at Gomycode and working on a mini 2D game 🎮project in C++ on my own.
   - 💪🏽Skills:
@@ -36,6 +24,18 @@ ___
 
 ![SASS](images/sass.png)&nbsp;&nbsp;&nbsp;![Git](images/git.png)&nbsp;&nbsp;&nbsp;![MongoDb Compass](images/compass.png)&nbsp;&nbsp;&nbsp;![OpenCV](images/opencv.png)&nbsp;&nbsp;&nbsp;![SFML](images/sfml.png)&nbsp;&nbsp;&nbsp;![Node.js](images/node.png)&nbsp;&nbsp;&nbsp;![Express.js](images/express.png)
 ___
+
+<table align=center style="width: 100%;">
+  <tr>
+    <td style="width: 50%; text-align: center;">
+      <a href="https://www.codewars.com/users/Josh012006" target = "_blank"><img src="https://www.codewars.com/users/Josh012006/badges/small" alt="CodeWars Badge" style="max-width: 100%; height: auto;"></a>
+    </td>
+    <td style="width: 50%; text-align: center;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josh012006&layout=compact&langs_count=10" alt="Top Langs" style="max-width: 100%; height: auto;">
+    </td>
+  </tr>
+</table>
+
 
 ## Some of my achievements
   - Edabit: https://edabit.com/user/X6cvktRthAp3xdGBw
