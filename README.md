@@ -31,7 +31,7 @@ ___
       <a href="https://www.codewars.com/users/Josh012006" target = "_blank"><img src="https://www.codewars.com/users/Josh012006/badges/small" alt="CodeWars Badge" style="max-width: 100%; height: auto;"></a>
     </td>
     <td style="width: 50%; text-align: center;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josh012006&layout=compact&langs_count=10" alt="Top Langs" style="max-width: 100%; height: auto;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josh012006&layout=compact&langs_count=10&theme=dark#gh-dark-mode-only" alt="Top Langs" style="max-width: 100%; height: auto;">
     </td>
   </tr>
 </table>
@@ -40,8 +40,6 @@ ___
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Josh012006&repo=Weather-App)](https://github.com/Josh012006/Weather-App)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Josh012006&repo=RPG-Game)](https://github.com/Josh012006/RPG-Game)
 
-  ## Weather App
-  A simple JavaScript based web app that helps you see the weather.
 
 ## Some of my achievements
   - Edabit: https://edabit.com/user/X6cvktRthAp3xdGBw
