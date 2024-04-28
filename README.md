@@ -1,7 +1,13 @@
-<div align="center">
-  <a href="https://www.codewars.com/users/Josh012006"><img src="https://www.codewars.com/users/Josh012006/badges/large" alt="CodeWars Badge"></a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josh012006" alt="Top Langs">
-</div>
+<table style="width: 100%;">
+  <tr>
+    <td style="width: 50%; text-align: center;">
+      <a href="https://www.codewars.com/users/Josh012006"><img src="https://www.codewars.com/users/Josh012006/badges/large" alt="CodeWars Badge"></a>
+    </td>
+    <td style="width: 50%; text-align: center;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josh012006" alt="Top Langs">
+    </td>
+  </tr>
+</table>
 
 ## Hello😁, I'm Josué
   - I'm currently learning Software Development👨🏽‍💻 at Gomycode.
