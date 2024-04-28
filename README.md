@@ -31,14 +31,14 @@ ___
       <a href="https://www.codewars.com/users/Josh012006" target = "_blank"><img src="https://www.codewars.com/users/Josh012006/badges/small" alt="CodeWars Badge" style="max-width: 100%; height: auto;"></a>
     </td>
     <td style="width: 50%; text-align: center;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josh012006&layout=compact&langs_count=10" alt="Top Langs" style="max-width: 100%; height: auto;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josh012006&layout=compact&langs_count=10&bg_color=FFCCAD&title_color=3A0603" alt="Top Langs" style="max-width: 100%; height: auto;">
     </td>
   </tr>
 </table>
 
 ## Top repositories
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Josh012006&repo=Weather-App&bg_color=FFCCAD&icon_color=FF8E55&text_color=000000&title_color=3A0603&border_color=000000)](https://github.com/Josh012006/Weather-App)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Josh012006&repo=RPG-Game&bg_color=FFFFFF&icon_color=F08650&text_color=000000&title_color=000000&border_color=000000)](https://github.com/Josh012006/RPG-Game)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Josh012006&repo=RPG-Game&bg_color=FFCCAD&icon_color=FF8E55&text_color=000000&title_color=3A0603&border_color=000000)](https://github.com/Josh012006/RPG-Game)
 
 
 ## Some of my achievements
