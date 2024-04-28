@@ -37,7 +37,7 @@ ___
 </table>
 
 ## Top repositories
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Josh012006&repo=Weather-App&bg_color=FFFFFF&icon_color=F08650&text_color=000000&title_color=000000&border_color=000000)](https://github.com/Josh012006/Weather-App)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Josh012006&repo=Weather-App&bg_color=FF8E55&icon_color=F08650&text_color=000000&title_color=3A0603&border_color=000000)](https://github.com/Josh012006/Weather-App)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Josh012006&repo=RPG-Game&bg_color=FFFFFF&icon_color=F08650&text_color=000000&title_color=000000&border_color=000000)](https://github.com/Josh012006/RPG-Game)
 
 
