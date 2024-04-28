@@ -1,5 +1,5 @@
 <table style="width: 100%;">
-  <tr>
+  <tr style = "display: flex; justify-content: space-around; align-items: center;">
     <td style="width: 50%; text-align: center;">
       <a href="https://www.codewars.com/users/Josh012006"><img src="https://www.codewars.com/users/Josh012006/badges/large" alt="CodeWars Badge"></a>
     </td>
