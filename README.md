@@ -1,7 +1,7 @@
 <table style="width: 100%;">
   <tr>
     <td style="width: 50%; text-align: center;">
-      <a href="https://www.codewars.com/users/Josh012006"><img src="https://www.codewars.com/users/Josh012006/badges/large" alt="CodeWars Badge" style="max-width: 100%; height: auto;"></a>
+      <a href="https://www.codewars.com/users/Josh012006"><img src="https://www.codewars.com/users/Josh012006/badges/large" alt="CodeWars Badge" style="max-width: 200px; height: auto;"></a>
     </td>
     <td style="width: 50%; text-align: center;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josh012006" alt="Top Langs" style="max-width: 100%; height: auto;">
