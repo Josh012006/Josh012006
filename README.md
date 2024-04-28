@@ -1,6 +1,7 @@
-[![CodeWars Badge](https://www.codewars.com/users/Josh012006/badges/large)](https://www.codewars.com/users/Josh012006)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Josh012006)
+<div align="center">
+  <a href="https://www.codewars.com/users/Josh012006"><img src="https://www.codewars.com/users/Josh012006/badges/large" alt="CodeWars Badge"></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josh012006" alt="Top Langs">
+</div>
 
 ## Hello😁, I'm Josué
   - I'm currently learning Software Development👨🏽‍💻 at Gomycode.
