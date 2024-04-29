@@ -1,4 +1,6 @@
-  <img src="images/salute.png" alt="greeting" align=center>
+  <div align=center>
+    <img src="images/salute.png" alt="greeting">
+  </div>
   
   - I'm currently learning Software Development👨🏽‍💻 at Gomycode and working on a mini 2D game 🎮project in C++ on my own.
   - 💪🏽Skills:
