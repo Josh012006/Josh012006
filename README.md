@@ -35,7 +35,7 @@ ___
       <a href="https://www.codewars.com/users/Josh012006" target = "_blank"><img src="https://www.codewars.com/users/Josh012006/badges/small" alt="CodeWars Badge" style="max-width: 100%; height: auto;"></a>
     </td>
     <td style="width: 50%; text-align: center;">
-      
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josh012006&layout=compact&langs_count=10&bg_color=FFEADE&title_color=3A0603&text_color=000000&border_color=F09B59" alt="Top Langs" style="max-width: 100%; height: auto;">
     </td>
   </tr>
 </table>
