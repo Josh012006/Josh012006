@@ -12,6 +12,7 @@
       * I know how to use Node.js to build server-side applications.
       * Another one of my skills is my ability to use Express.js with template engines like Handlebars and Pug.
       * I've also mastered OOP in C++ and JavaScript.
+      * I also know how to use React.
   - 🔍 I'm looking for a remote internship as a junior software developer.
   - How to reach me: josuesmjr.mongan@gmail.com
   - Fun facts🥳: I really love computer science and always liked discovering new things by disassembling🔧 electronic devices. 🎹📚 I also play piano and I like reading a lot.
@@ -26,7 +27,7 @@ ___
 
 ### Tools and Librairies
 
-![SASS](images/sass.png)&nbsp;&nbsp;&nbsp;![Git](images/git.png)&nbsp;&nbsp;&nbsp;![MongoDb Compass](images/compass.png)&nbsp;&nbsp;&nbsp;![OpenCV](images/opencv.png)&nbsp;&nbsp;&nbsp;![SFML](images/sfml.png)&nbsp;&nbsp;&nbsp;![Node.js](images/node.png)&nbsp;&nbsp;&nbsp;![Express.js](images/express.png)&nbsp;&nbsp;&nbsp;![Postman API](images/postman.png)
+![SASS](images/sass.png)&nbsp;&nbsp;&nbsp;![Git](images/git.png)&nbsp;&nbsp;&nbsp;![MongoDb Compass](images/compass.png)&nbsp;&nbsp;&nbsp;![OpenCV](images/opencv.png)&nbsp;&nbsp;&nbsp;![SFML](images/sfml.png)&nbsp;&nbsp;&nbsp;![Node.js](images/node.png)&nbsp;&nbsp;&nbsp;![Express.js](images/express.png)&nbsp;&nbsp;&nbsp;![Postman API](images/postman.png)&nbsp;&nbsp;&nbsp;![React](images/react.png)
 ___
 
 <table align=center style="width: 100%;">
