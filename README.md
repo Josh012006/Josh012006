@@ -13,6 +13,7 @@
       * Another one of my skills is my ability to use **Express.js** with template engines like **Handlebars** and Pug.
       * I've also mastered **OOP** in C++ and JavaScript.
       * I also know how to use **React** and **Redux** with **redux toolkit**.
+      * I know how to write code in **TypeScript** too.
   - 🔍 I'm looking for a remote internship as a junior software developer.
   - How to reach me: josuesmjr.mongan@gmail.com
   - Fun facts🥳: I really love computer science and always liked discovering new things by disassembling🔧 electronic devices. 🎹📚 I also play piano and I like reading a lot.
@@ -20,7 +21,7 @@
 ___
 ### Languages
 
-![HTML5](images/html.png)&nbsp;&nbsp;&nbsp;![CSS3](images/css.png)&nbsp;&nbsp;&nbsp;![JavaScript](images/js.png)  
+![HTML5](images/html.png)&nbsp;&nbsp;&nbsp;![CSS3](images/css.png)&nbsp;&nbsp;&nbsp;![JavaScript](images/js.png)&nbsp;&nbsp;&nbsp;![TypeScript](images/ts.png)    
 ![SQL](images/sql.png)&nbsp;&nbsp;&nbsp;![MySQL](images/mysql.png)&nbsp;&nbsp;&nbsp;![MongoDB](images/mongodb.png)  
 ![C++](images/cpp.png)&nbsp;&nbsp;&nbsp;![C](images/c.png)   
 ![Python](images/python.png)  
@@ -36,7 +37,7 @@ ___
       <a href="https://www.codewars.com/users/Josh012006" target = "_blank"><img src="https://www.codewars.com/users/Josh012006/badges/small" alt="CodeWars Badge" style="max-width: 100%; height: auto;"></a>
     </td>
     <td style="width: 50%; text-align: center;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josh012006&langs_count=10&layout=compact&text_color=000000&border_color=F09B59&title_color=3A0603&bg_color=FFEADE" alt="Top Langs" style="max-width: 100%; height: auto;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josh012006&langs_count=10&layout=compact&text_color=000000&border_color=F09B59&bg_color=FFEADE&title_color=3A0603" alt="Top Langs" style="max-width: 100%; height: auto;">
     </td>
   </tr>
 </table>
