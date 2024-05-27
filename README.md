@@ -4,15 +4,15 @@
   
   - I'm currently learning Software Development👨🏽‍💻 at Gomycode and working on a mini 2D game 🎮project in C++ on my own.
   - 💪🏽Skills:
-      * I've learnt how to use HTML5 and CSS3 with some of its frameworks(Bootstrap, Tailwind).
-      * JavaScript with DOM and ES6 is also part of my skills.
-      * I know how to write code in C++(Basics, SFML and STL) and in C.
-      * I also know how to write queries in SQL (DDL, DML and DQL).
-      * I learnt NoSQL using MongoDB and Mongoose too.
-      * I know how to use Node.js to build server-side applications.
-      * Another one of my skills is my ability to use Express.js with template engines like Handlebars and Pug.
-      * I've also mastered OOP in C++ and JavaScript.
-      * I also know how to use React and Redux with redux toolkit.
+      * I've learnt how to use **HTML5** and **CSS3** with some of its frameworks(**Bootstrap, Tailwind**).
+      * **JavaScript** with **DOM** and **ES6** are also part of my skills.
+      * I know how to write code in **C++**(Basics, SFML and STL) and in **C**.
+      * I also know how to write queries in **SQL** (DDL, DML and DQL).
+      * I learnt **NoSQL** using **MongoDB** and **Mongoose** too.
+      * I know how to use **Node.js** to build server-side applications.
+      * Another one of my skills is my ability to use **Express.js** with template engines like **Handlebars** and Pug.
+      * I've also mastered **OOP** in C++ and JavaScript.
+      * I also know how to use **React** and **Redux** with **redux toolkit**.
   - 🔍 I'm looking for a remote internship as a junior software developer.
   - How to reach me: josuesmjr.mongan@gmail.com
   - Fun facts🥳: I really love computer science and always liked discovering new things by disassembling🔧 electronic devices. 🎹📚 I also play piano and I like reading a lot.
