@@ -4,7 +4,7 @@
   
   - I'm currently learning Software Development👨🏽‍💻 at Gomycode and working on a mini 2D game 🎮project in C++ on my own.
   - 💪🏽Skills:
-      * I've mastered the basis of web development like **HTML5**, **CSS3** with some of its frameworks(**Bootstrap, Tailwind**) and **JavaScript** with **DOM** and **ES6**.
+      * I've mastered the basics of web development like **HTML5**, **CSS3** with some of its frameworks(**Bootstrap, Tailwind**) and **JavaScript** with **DOM** and **ES6**.
       * I know how to write code in **C++**(Basics, SFML and STL) and in **C**. In fact that's the first language I learned 😎.
       * I also know how to write queries with **SQL** (DDL, DML and DQL) and also **NoSQL databases** using **MongoDB** and **Mongoose**.
       * I know how to use **Node.js** to build server-side applications with **Express.js** especially (and even using some template engines like **Handlebars** and **Pug** for rendering pages).
