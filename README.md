@@ -4,19 +4,17 @@
   
   - I'm currently learning Software Development👨🏽‍💻 at Gomycode and working on a mini 2D game 🎮project in C++ on my own.
   - 💪🏽Skills:
-      * I've learnt how to use **HTML5** and **CSS3** with some of its frameworks(**Bootstrap, Tailwind**).
-      * **JavaScript** with **DOM** and **ES6** are also part of my skills.
-      * I know how to write code in **C++**(Basics, SFML and STL) and in **C**.
-      * I also know how to write queries in **SQL** (DDL, DML and DQL).
-      * I learnt **NoSQL** using **MongoDB** and **Mongoose** too.
-      * I know how to use **Node.js** to build server-side applications.
-      * Another one of my skills is my ability to use **Express.js** with template engines like **Handlebars** and Pug.
-      * I've also mastered **OOP** in C++ and JavaScript.
+      * I've mastered the basis of web development like **HTML5**, **CSS3** with some of its frameworks(**Bootstrap, Tailwind**) and **JavaScript** with **DOM** and **ES6**.
+      * I know how to write code in **C++**(Basics, SFML and STL) and in **C**. In fact that's the first language I learned 😎.
+      * I also know how to write queries with **SQL** (DDL, DML and DQL) and also **NoSQL databases** using **MongoDB** and **Mongoose**.
+      * I know how to use **Node.js** to build server-side applications with **Express.js** especially (and even using some template engines like **Handlebars** and **Pug** for rendering pages).
+      * I've also mastered the concept of **OOP** in C++ and JavaScript.
       * I also know how to use **React** and **Redux** with **redux toolkit**.
-      * I know how to write code in **TypeScript** too.
+      * I know how to write code in **TypeScript** to create **MERN** stack (MongoDB, Express, React, Node.js) apps.
+      S/N: You can find more about all my skills by visiting my linkedin profile.
   - 🔍 I'm looking for a remote internship as a junior software developer.
   - How to reach me: josuesmjr.mongan@gmail.com
-  - Fun facts🥳: I really love computer science and always liked discovering new things by disassembling🔧 electronic devices. 🎹📚 I also play piano and I like reading a lot.
+  - Fun facts🥳: I really love computer science and always liked discovering new things by disassembling🔧 electronic devices (so watch out for your devices🤭). 🎹📚 I also play piano and I like reading a lot.
 
 ___
 ### Languages
@@ -28,7 +26,7 @@ ___
 
 ### Tools and Librairies
 
-![SASS](images/sass.png)&nbsp;&nbsp;&nbsp;![Git](images/git.png)&nbsp;&nbsp;&nbsp;![MongoDb Compass](images/compass.png)&nbsp;&nbsp;&nbsp;![OpenCV](images/opencv.png)&nbsp;&nbsp;&nbsp;![SFML](images/sfml.png)&nbsp;&nbsp;&nbsp;![Node.js](images/node.png)&nbsp;&nbsp;&nbsp;![Express.js](images/express.png)&nbsp;&nbsp;&nbsp;![Postman API](images/postman.png)&nbsp;&nbsp;&nbsp;![React](images/react.png)&nbsp;&nbsp;&nbsp;![Redux](images/redux.png)
+![SASS](images/sass.png)&nbsp;&nbsp;&nbsp;![Git](images/git.png)&nbsp;&nbsp;&nbsp;![MongoDb Compass](images/compass.png)&nbsp;&nbsp;&nbsp;![OpenCV](images/opencv.png)&nbsp;&nbsp;&nbsp;![SFML](images/sfml.png)&nbsp;&nbsp;&nbsp;![Node.js](images/node.png)&nbsp;&nbsp;&nbsp;![Express.js](images/express.png)&nbsp;&nbsp;&nbsp;![Postman API](images/postman.png)&nbsp;&nbsp;&nbsp;![React](images/react.png)&nbsp;&nbsp;&nbsp;![Redux](images/redux.png)&nbsp;&nbsp;&nbsp;![Next.js](images/next.png)
 ___
 
 <table align=center style="width: 100%;">
@@ -54,6 +52,7 @@ ___
   - CodeWars: https://www.codewars.com/users/Josh012006
   - Codingame: https://www.codingame.com/profile/6b5fb48d2ae5c775c85fb627283309be6978985
   - Codecademy: https://www.codecademy.com/profiles/css4797044962
+  - HackerRank: https://www.hackerrank.com/profile/josuesmjr_mongan
 
 ## 📪Let's connect
 Linkedin: https://www.linkedin.com/in/josu%C3%A9-st-martin-jr-mongan-a7b6242b8/ .
