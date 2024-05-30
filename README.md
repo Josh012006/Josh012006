@@ -26,7 +26,7 @@ ___
 
 ### Tools and Librairies
 
-![SASS](images/sass.png)&nbsp;&nbsp;&nbsp;![Git](images/git.png)&nbsp;&nbsp;&nbsp;![MongoDb Compass](images/compass.png)&nbsp;&nbsp;&nbsp;![OpenCV](images/opencv.png)&nbsp;&nbsp;&nbsp;![SFML](images/sfml.png)&nbsp;&nbsp;&nbsp;![Node.js](images/node.png)&nbsp;&nbsp;&nbsp;![Express.js](images/express.png)&nbsp;&nbsp;&nbsp;![Postman API](images/postman.png)&nbsp;&nbsp;&nbsp;![React](images/react.png)&nbsp;&nbsp;&nbsp;![Redux](images/redux.png)&nbsp;&nbsp;&nbsp;![Next.js](images/next.png)
+![SASS](images/sass.png)&nbsp;&nbsp;&nbsp;![Git](images/git.png)&nbsp;&nbsp;&nbsp;![MongoDb Compass](images/compass.png)&nbsp;&nbsp;&nbsp;![OpenCV](images/opencv.png)&nbsp;&nbsp;&nbsp;![SFML](images/sfml.png)&nbsp;&nbsp;&nbsp;![Node.js](images/node.png)&nbsp;&nbsp;&nbsp;![Express.js](images/express.png)&nbsp;&nbsp;&nbsp;![Postman API](images/postman.png)&nbsp;&nbsp;&nbsp;![React](images/react.png)&nbsp;&nbsp;&nbsp;![Redux](images/redux.png)&nbsp;&nbsp;&nbsp;![Next.js](images/next1.png)
 ___
 
 <table align=center style="width: 100%;">
