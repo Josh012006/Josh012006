@@ -7,12 +7,12 @@
       * I've mastered the basics of web development like **HTML5**, **CSS3** with some of its frameworks(**Bootstrap, Tailwind**) and **JavaScript** (with **DOM** and **ES6**).
       * I know how to write code in **C++**(Basics, SFML and STL) and in **C**. In fact that's the first language I learned 😎.
       * I also know how to write queries with **SQL** (DDL, DML and DQL) and also **NoSQL databases** using **MongoDB** and **Mongoose**.
-      * I know how to use **Node.js** to build server-side applications with **Express.js** especially (and even using some template engines like **Handlebars** and **Pug** for rendering pages).
-      * I've also mastered the concept of **OOP** in C++ and JavaScript.
-      * I also know how to use **React** and **Redux** with **redux toolkit**.
-      * I know how to write code in **TypeScript** to create **MERN** stack (MongoDB, Express, React, Node.js) apps.
+      * I can also use **Node.js** to build server-side applications with **Express.js** especially (and even using some template engines like **Handlebars** and **Pug** for rendering pages).
+      * I've mastered the concept of **OOP** in C++ and JavaScript.
+      * I'm able to build frontend applications with **React** and **Redux** (mainly **redux toolkit**).
+      * I know how use **TypeScript** to create **MERN** stack (MongoDB, Express, React, Node.js) apps.
       S/N: You can find more about all my skills by visiting my linkedin profile.
-  - 🔍 I'm looking for a remote internship as a junior software developer.
+  - All that I need now is some experience 🌟. That's why I'm looking 🔍 for a remote internship as a junior software developer.
   - How to reach me: josuesmjr.mongan@gmail.com
   - Fun facts🥳: I really love computer science and always liked discovering new things by disassembling🔧 electronic devices (so watch out for your devices🤭). 🎹📚 I also play piano and I like reading a lot.
 
