@@ -56,6 +56,6 @@ ___
   - HackerRank: https://www.hackerrank.com/profile/josuesmjr_mongan
 
 ## 📪Let's connect
-Linkedin: [https://www.linkedin.com/in/josu%C3%A9-st-martin-jr-mongan-a7b6242b8/](https://www.linkedin.com/in/josu%C3%A9-mongan-a7b6242b8/) .
+Linkedin: https://www.linkedin.com/in/josu%C3%A9-mongan-a7b6242b8/ .
 You can find all my certificates and proofs on my Linkedin Profile page.
 
