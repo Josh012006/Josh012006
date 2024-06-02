@@ -42,7 +42,7 @@ ___
 </table>
 
 ## Top repositories
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Josh012006&repo=Next-JS&bg_color=FFEADE&icon_color=FF8E55&text_color=000000&title_color=3A0603&border_color=F09B59)](https://github.com/Josh012006/Next-JS)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Josh012006&repo=Next-JS&bg_color=FFEADE&icon_color=FF8E55&border_color=F09B59&text_color=000000&title_color=3A0603)](https://github.com/Josh012006/Next-JS)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Josh012006&repo=RPG-Game&bg_color=FFEADE&icon_color=FF8E55&text_color=000000&title_color=3A0603&border_color=F09B59)](https://github.com/Josh012006/RPG-Game)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Josh012006&repo=Tasks-Manager&bg_color=FFEADE&icon_color=FF8E55&text_color=000000&title_color=3A0603&border_color=F09B59)](https://github.com/Josh012006/Tasks-Manager)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Josh012006&repo=Express&bg_color=FFEADE&icon_color=FF8E55&text_color=000000&title_color=3A0603&border_color=F09B59)](https://github.com/Josh012006/Express)
