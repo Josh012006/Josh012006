@@ -11,6 +11,7 @@
       * I've mastered the concept of **OOP** in C++ and JavaScript.
       * I'm able to build frontend applications with **React** and **Redux** (mainly **redux toolkit**).
       * I know how use **TypeScript** to create **MERN** stack (MongoDB, Express, React, Node.js) apps.
+      * I can create React Apps with **Next.js**.
       S/N: You can find more about all my skills by visiting my linkedin profile.
   - All that I need now is some experience 🌟. That's why I'm looking 🔍 for a remote internship as a junior software developer.
   - How to reach me: josuesmjr.mongan@gmail.com
