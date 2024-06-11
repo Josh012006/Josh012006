@@ -32,7 +32,7 @@ ___
 
 ### Currently Learning
 
-![OpenCV](images/opencv.png)&nbsp;&nbsp;&nbsp;![Qt](images/qt.png)
+![OpenCV](images/opencv.png)&nbsp;&nbsp;&nbsp;![Qt](images/qtc.png)
 ___
 
 <table align=center style="width: 100%;">
