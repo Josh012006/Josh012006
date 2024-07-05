@@ -21,14 +21,18 @@
 ___
 ### Languages
 
-![HTML5](images/html.png)&nbsp;&nbsp;&nbsp;![CSS3](images/css.png)&nbsp;&nbsp;&nbsp;![JavaScript](images/js.png)&nbsp;&nbsp;&nbsp;![TypeScript](images/ts.png)    
-![SQL](images/sql.png)&nbsp;&nbsp;&nbsp;![MySQL](images/mysql.png)&nbsp;&nbsp;&nbsp;![MongoDB](images/mongodb.png)  
+![HTML5](images/html.png)&nbsp;&nbsp;&nbsp;![CSS3](images/css.png)&nbsp;&nbsp;&nbsp;![JavaScript](images/js.png)&nbsp;&nbsp;&nbsp;![TypeScript](images/ts.png)      
 ![C++](images/cpp.png)&nbsp;&nbsp;&nbsp;![C](images/c.png)   
 ![Python](images/python.png)  
+![SQL](images/sql.png)
 
 ### Tools and Librairies
 
 ![SASS](images/sass.png)&nbsp;&nbsp;&nbsp;![Git](images/git.png)&nbsp;&nbsp;&nbsp;![MongoDb Compass](images/compass.png)&nbsp;&nbsp;&nbsp;![Mongoose](images/mongoose.png)&nbsp;&nbsp;&nbsp;![SFML](images/sfml.png)&nbsp;&nbsp;&nbsp;![Node.js](images/node.png)&nbsp;&nbsp;&nbsp;![Express.js](images/express.png)&nbsp;&nbsp;&nbsp;![Postman API](images/postman.png)&nbsp;&nbsp;&nbsp;![React](images/react.png)&nbsp;&nbsp;&nbsp;![Redux](images/redux.png)&nbsp;&nbsp;&nbsp;![Next.js](images/next.png)
+
+### Databases
+
+![MySQL](images/mysql.png)&nbsp;&nbsp;&nbsp;![MongoDB](images/mongodb.png)
 
 ### Currently Learning
 
