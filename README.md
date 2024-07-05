@@ -1,5 +1,5 @@
   <div align=center>
-    <img src="images/salute.png" alt="greeting">
+    <img src="images/salution.png" alt="greeting">
   </div>
   
   - I'm currently **honing my skills in software development**. At the same time, I'm working on a **2D mini-game** 🎮project **in C++** and **learning Qt and OpenCV** on my own.
