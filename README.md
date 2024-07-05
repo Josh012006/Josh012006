@@ -54,7 +54,7 @@ ___
 
 ## Current project
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Josh012006&repo=Appointment-App&bg_color=F1F6F9&icon_color=1FA0D2&border_color=0000BB&text_color=000000&title_color=1FA0D7)](https://github.com/Josh012006/Appointment-App)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Josh012006&repo=Appointment-App&bg_color=F1F6F9&icon_color=1FA0D2&border_color=0000BB&text_color=000000&title_color=1FA0DD)](https://github.com/Josh012006/Appointment-App)
 
 ## Top repositories
 
