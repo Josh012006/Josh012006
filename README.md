@@ -1,6 +1,9 @@
   <div align=center>
-    <h1 style="font-size: 20px; font-style: italic;">Hi there 😁, I'm Josué</h1>
+    <h1>Hi there, I'm Josué</h1>
   </div>
+
+
+  
   
   - I'm currently **honing my skills in software development**. At the same time, I'm working on a **2D mini-game** 🎮project **in C++** and **learning Qt and OpenCV** on my own.
   - 💪🏽Skills:
