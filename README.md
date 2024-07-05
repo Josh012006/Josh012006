@@ -41,7 +41,7 @@ ___
 <table align=center style="width: 100%;">
   <tr>
     <td style="width: 50%; text-align: center;">
-      <a href="https://www.codewars.com/users/Josh012006" target = "_blank"><img src="https://www.codewars.com/users/Josh012006/badges/small" alt="CodeWars Badge" style="max-width: 100%; height: auto;"></a>
+      <img src="https://github-readme-stats.vercel.app/api?username=Josh012006&show_icons=true&theme=radical" alt="Josh's GitHub stats" style="max-width: 100%; height: auto;">
     </td>
     <td style="width: 50%; text-align: center;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josh012006&langs_count=10&text_color=000000&title_color=3A0603&layout=compact&border_color=F09B59&bg_color=FFEADE" alt="Top Langs" style="max-width: 100%; height: auto;">
@@ -49,7 +49,12 @@ ___
   </tr>
 </table>
 
+## Current project
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Josh012006&repo=Appointment-App&bg_color=FFEADE&icon_color=FF8E55&border_color=F09B59&text_color=000000&title_color=3A0603)](https://github.com/Josh012006/Appointment-App)
+
 ## Top repositories
+
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Josh012006&repo=Next-JS&bg_color=FFEADE&icon_color=FF8E55&border_color=F09B59&text_color=000000&title_color=3A0603)](https://github.com/Josh012006/Next-JS)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Josh012006&repo=RPG-Game&bg_color=FFEADE&icon_color=FF8E55&text_color=000000&title_color=3A0603&border_color=F09B59)](https://github.com/Josh012006/RPG-Game)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Josh012006&repo=Tasks-Manager&bg_color=FFEADE&icon_color=FF8E55&text_color=000000&title_color=3A0603&border_color=F09B59)](https://github.com/Josh012006/Tasks-Manager)
