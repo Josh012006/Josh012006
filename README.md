@@ -26,8 +26,8 @@ ___
 
 ![HTML5](images/html.png)&nbsp;&nbsp;&nbsp;![CSS3](images/css.png)&nbsp;&nbsp;&nbsp;![JavaScript](images/js.png)&nbsp;&nbsp;&nbsp;![TypeScript](images/ts.png)      
 ![C++](images/cpp.png)&nbsp;&nbsp;&nbsp;![C](images/c.png)   
+![SQL](images/sql.png)    
 ![Python](images/python.png)  
-![SQL](images/sql.png)
 
 ### Tools and Librairies
 
