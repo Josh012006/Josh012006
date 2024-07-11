@@ -6,6 +6,7 @@
   
   
   - I'm currently **honing my skills in software development**. At the same time, I'm working on a **2D mini-game** 🎮project **in C++** and **learning Qt and OpenCV** on my own.
+    Don't go without seeing my top repositories. Your contributions are welcome and leave some stars💫 if possible.
   - 💪🏽Skills:
       * I've mastered the basics of web development like **HTML5**, **CSS3** with some of its frameworks(**Bootstrap, Tailwind**) and **JavaScript** (with **DOM** and **ES6**).
       * I know how to write code in **C++**(Basics, SFML and STL) and in **C**. In fact that's the first language I learned 😎.
