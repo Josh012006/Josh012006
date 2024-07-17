@@ -32,7 +32,8 @@ ___
 
 ### Tools and Librairies
 
-![SASS](images/sass.png)&nbsp;&nbsp;&nbsp;![Git](images/git.png)&nbsp;&nbsp;&nbsp;![MongoDb Compass](images/compass.png)&nbsp;&nbsp;&nbsp;![Mongoose](images/mongoose.png)&nbsp;&nbsp;&nbsp;![SFML](images/sfml.png)&nbsp;&nbsp;&nbsp;![JSON](images/json.png)&nbsp;&nbsp;&nbsp;![CMake](images/cmake.png)&nbsp;&nbsp;&nbsp;![Node.js](images/node.png)&nbsp;&nbsp;&nbsp;![Express.js](images/express.png)&nbsp;&nbsp;&nbsp;![Postman API](images/postman.png)&nbsp;&nbsp;&nbsp;![React](images/react.png)&nbsp;&nbsp;&nbsp;![Vite](images/vite.png)&nbsp;&nbsp;&nbsp;![Redux](images/redux.png)&nbsp;&nbsp;&nbsp;![Next.js](images/next.png)&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactrouter/reactrouter-original-wordmark.svg" width="40" height="40" />
+![SASS](images/sass.png)&nbsp;&nbsp;&nbsp;![Git](images/git.png)&nbsp;&nbsp;&nbsp;![MongoDb Compass](images/compass.png)&nbsp;&nbsp;&nbsp;![Mongoose](images/mongoose.png)&nbsp;&nbsp;&nbsp;![SFML](images/sfml.png)&nbsp;&nbsp;&nbsp;![JSON](images/json.png)&nbsp;&nbsp;&nbsp;![CMake](images/cmake.png)&nbsp;&nbsp;&nbsp;![Node.js](images/node.png)&nbsp;&nbsp;&nbsp;![Express.js](images/express.png)&nbsp;&nbsp;&nbsp;![Postman API](images/postman.png)&nbsp;&nbsp;&nbsp;![React](images/react.png)&nbsp;&nbsp;&nbsp;![Vite](images/vite.png)&nbsp;&nbsp;&nbsp;![Redux](images/redux.png)&nbsp;&nbsp;&nbsp;![Next.js](images/next.png)&nbsp;&nbsp;&nbsp;
+
 ### Databases
 
 ![MySQL](images/mysql.png)&nbsp;&nbsp;&nbsp;![MongoDB](images/mongodb.png)
