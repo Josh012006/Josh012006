@@ -68,11 +68,13 @@ ___
 ## Some of my achievements
   - Edabit: https://edabit.com/user/X6cvktRthAp3xdGBw
   - CodeWars: https://www.codewars.com/users/Josh012006
+    
   [![Codewars](https://www.codewars.com/users/Josh012006/badges/large)](https://www.codewars.com/users/Josh012006)
   
   - Codingame: https://www.codingame.com/profile/6b5fb48d2ae5c775c85fb627283309be6978985
   - Codecademy: https://www.codecademy.com/profiles/css4797044962
   - HackerRank: https://www.hackerrank.com/profile/josuesmjr_mongan
+    
   [![Tublian](https://tublian-newsletter-assets.s3.amazonaws.com/ai_internship_badge.svg)](https://www.tublian.com/profile/Josh012006)
 
 ## 📪Let's connect
