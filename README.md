@@ -82,7 +82,7 @@ ___
 
 ## 📪Let's connect
 Linkedin: https://www.linkedin.com/in/josu%C3%A9-mongan-a7b6242b8/    
-Personal website: https://myportfolio-gamma-umber.vercel.app/ 
+Personal website: https://josue-mongan.vercel.app/
 
 You can find all my certificates and proofs on my Linkedin Profile page.
 
