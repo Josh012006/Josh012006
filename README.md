@@ -23,24 +23,41 @@
   - Fun facts🥳: I really love computer science and always liked discovering new things by disassembling🔧 electronic devices (so watch out for your devices🤭). 🎹📚 I also play piano and I like reading a lot.
 
 ___
-### Languages
+### Main Programming Languages
 
-![HTML5](images/html.png)&nbsp;&nbsp;&nbsp;![CSS3](images/css.png)&nbsp;&nbsp;&nbsp;![JavaScript](images/js.png)&nbsp;&nbsp;&nbsp;![TypeScript](images/ts.png)      
-![C++](images/cpp.png)&nbsp;&nbsp;&nbsp;![C](images/c.png)   
-![SQL](images/sql.png)    
-![Python](images/python.png)  
+<div align="left">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,c,cpp,py" />
+</div>
 
-### Tools and Librairies
+### Frontend Frameworks and Skills
 
-![TailwindCSS](images/tailwind.png)&nbsp;&nbsp;&nbsp;![SASS](images/sass.png)&nbsp;&nbsp;&nbsp;![Git](images/git.png)&nbsp;&nbsp;&nbsp;![MongoDb Compass](images/compass.png)&nbsp;&nbsp;&nbsp;![Mongoose](images/mongoose.png)&nbsp;&nbsp;&nbsp;![SFML](images/sfml.png)&nbsp;&nbsp;&nbsp;![JSON](images/json.png)&nbsp;&nbsp;&nbsp;![CMake](images/cmake.png)&nbsp;&nbsp;&nbsp;![Node.js](images/node.png)&nbsp;&nbsp;&nbsp;![Express.js](images/express.png)&nbsp;&nbsp;&nbsp;![Postman API](images/postman.png)&nbsp;&nbsp;&nbsp;![React](images/react.png)&nbsp;&nbsp;&nbsp;![Vite](images/vite.png)&nbsp;&nbsp;&nbsp;![Redux](images/redux.png)&nbsp;&nbsp;&nbsp;![Next.js](images/next.png)&nbsp;&nbsp;&nbsp;
+<div align="left">
+    <img src="https://skillicons.dev/icons?i=react,vite,nextjs,bootstrap,tailwind,materialui" />
+</div>
+
+### Backend Frameworks and Skills
+
+<div align="left">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,npm" />
+</div>
 
 ### Databases
 
-![MySQL](images/mysql.png)&nbsp;&nbsp;&nbsp;![MongoDB](images/mongodb.png)
+<div align="left">
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,postman" />
+</div>
+
+### Other Tools and Librairies
+
+<div align="left">
+    <img src="https://skillicons.dev/icons?i=redux,github,git,vercel,sass,cmake,pycharm,clion,vscode" />&nbsp;&nbsp;&nbsp;![SFML](images/sfml.png)&nbsp;&nbsp;&nbsp;![Mongoose](images/mongoose.png)&nbsp;&nbsp;&nbsp;
+</div>
 
 ### Currently Learning
 
-![OpenCV](images/opencv.png)&nbsp;&nbsp;&nbsp;![Qt](images/qt.png)
+<div align="left">
+    <img src="https://skillicons.dev/icons?i=opencv,qt,threejs" />
+</div>
 ___
 
 <table align=center style="width: 100%;">
