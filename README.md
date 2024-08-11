@@ -50,7 +50,9 @@ ___
 ### Other Tools and Librairies
 
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=redux,github,git,vercel,sass,cmake,pycharm,clion,vscode" />&nbsp;&nbsp;&nbsp;![SFML](images/sfml.png)&nbsp;&nbsp;&nbsp;![Mongoose](images/mongoose.png)&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=redux,github,git,vercel,sass,cmake,pycharm,clion,vscode" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original.svg" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodemon/nodemon-original.svg" />
 </div>
 
 ### Currently Learning
