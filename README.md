@@ -96,8 +96,7 @@ ___
 ## My badges
     
   [![Tublian](https://tublian-newsletter-assets.s3.amazonaws.com/ai_internship_badge.svg)](https://www.tublian.com/profile/Josh012006)
-
-  [![Codewars](https://www.codewars.com/users/Josh012006/badges/large)](https://www.codewars.com/users/Josh012006)
+  [![Codewars](https://www.codewars.com/users/Josh012006/badges/micro)](https://www.codewars.com/users/Josh012006)
 
 
 ## 📪Let's connect
