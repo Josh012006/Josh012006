@@ -3,24 +3,37 @@
   </div>
   <br />
 
-  
-  
-  - I'm currently **honing my skills in software development**. At the same time, I'm working on a **2D mini-game** 🎮project **in C++** and **learning Qt and OpenCV** on my own.<br />
-    Don't go without seeing my top repositories. Your contributions are welcome and leave some stars💫 if possible.
-  - 💪🏽Skills:
-      * I've mastered the basics of web development like **HTML5**, **CSS3** with some of its frameworks(**Bootstrap, Tailwind**) and **JavaScript** (with **DOM** and **ES6**).
-      * I know how to write code in **C++**(Basics, SFML and STL) and in **C**. In fact that's the first language I learned 😎.
-      * I also know how to write queries with **SQL** (DDL, DML and DQL) and also **NoSQL databases** using **MongoDB** and **Mongoose**.
-      * I can also use **Node.js** to build server-side applications with **Express.js** especially (and even using some template engines like **Handlebars** and **Pug** for rendering pages).
-      * I've mastered the concept of **OOP** in C++ and JavaScript.
-      * I'm able to build frontend applications with **React** and **Redux** (mainly **redux toolkit**).
-      * I know how use **TypeScript** to create **MERN** stack (MongoDB, Express, React, Node.js) apps.
-      * I can create React Apps with **Next.js**.
-        
-      **S/N:** You can find more about all my skills by visiting my linkedin profile.
-  - All that I need now is some experience 🌟. That's why I'm looking 🔍 for a remote paid internship as a junior software developer.
-  - How to reach me: josuesmjr.mongan@gmail.com
-  - Fun facts🥳: I really love computer science and always liked discovering new things by disassembling🔧 electronic devices (so watch out for your devices🤭). 🎹📚 I also play piano and I like reading a lot.
+- 🚀 I'm currently pursuing a **Bachelor of Computer Science**. I've also been **sharpening my skills in software development** while working on an exciting **2D mini-game project** 🎮 using **C++**. I'm also diving into **Qt** and **OpenCV** to broaden my expertise in application development and computer vision.  
+- ⭐ Check out my top repositories! Feel free to contribute or leave a star 💫—your feedback means a lot to me.
+
+### 💪 Skills Overview:
+
+#### Web Development:
+- Proficient in **HTML5**, **CSS3**, and JavaScript (**ES6**, **DOM manipulation**) with frameworks like **Bootstrap** and **Tailwind CSS**.  
+- Experienced in creating server-side applications with **Node.js** and **Express.js**, including rendering views using **Handlebars** and **Pug**.  
+- Skilled in building responsive and interactive front-end applications with **React** and **Redux** (**Redux Toolkit**) and working with **TypeScript** for type-safe projects.  
+- Capable of developing full-stack applications using the **MERN** stack (**MongoDB, Express, React, Node.js**) and building scalable apps with **Next.js**.  
+
+#### Programming & Databases:
+- Strong foundation in **C++** (**OOP**, STL, SFML) and **C**, the first language I mastered.  
+- Proficient in database management:
+  - **SQL**: Expertise in DDL, DML, and DQL operations.  
+  - **NoSQL**: Hands-on experience with **MongoDB** and **Mongoose**.  
+
+#### Additional Skills:
+- Solid understanding of **Object-Oriented Programming** in both C++ and JavaScript.  
+- Continuously expanding my knowledge through self-learning and practical projects.
+
+### 🌟 What I'm Looking For:
+- **Opportunity Alert**: I'm actively seeking a **remote, paid internship** as a junior software developer to gain hands-on experience and contribute to impactful projects.  
+
+### 📬 Get in Touch:
+- Email: **[josuesmjr.mongan@gmail.com](mailto:josuesmjr.mongan@gmail.com)**  
+- LinkedIn: **[My Profile](https://www.linkedin.com/in/josu%C3%A9-mongan-a7b6242b8/)**  
+
+### 🎉 Fun Facts:
+- I'm passionate about **computer science** and have a knack for taking apart and reassembling electronic devices (don't leave your gadgets lying around! 🤭).  
+- When I'm not coding, you can find me playing 🎹 **piano**, buried in a great 📚 **book**, or exploring new tech trends.
 
 ___
 ### Main Programming Languages
