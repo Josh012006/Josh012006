@@ -63,7 +63,8 @@ ___
 ### Other Tools and Librairies
 
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=redux,github,git,vercel,sass,cmake,pycharm,clion,vscode" />
+    <img src="https://skillicons.dev/icons?i=redux,github,git,vercel,sass,cmake,svg" />
+    <img src="https://skillicons.dev/icons?i=pycharm,clion,vscode" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original.svg" height="40" width="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodemon/nodemon-original.svg" height="40" width="40" />
 </div>
