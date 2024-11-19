@@ -29,7 +29,8 @@
 
 ### 📬 Get in Touch:
 - Email: **[josuesmjr.mongan@gmail.com](mailto:josuesmjr.mongan@gmail.com)**  
-- LinkedIn: **[My Profile](https://www.linkedin.com/in/josu%C3%A9-mongan-a7b6242b8/)**  
+- LinkedIn: **[My Profile](https://www.linkedin.com/in/josu%C3%A9-mongan-a7b6242b8/)**
+- Portfolio: **[My Website](https://josue-mongan.vercel.app/)**
 
 ### 🎉 Fun Facts:
 - I'm passionate about **computer science** and have a knack for taking apart and reassembling electronic devices (don't leave your gadgets lying around! 🤭).  
@@ -124,13 +125,9 @@ ___
 
   [![Codewars](https://www.codewars.com/users/Josh012006/badges/micro)](https://www.codewars.com/users/Josh012006)
   [![Tublian](https://tublian-newsletter-assets.s3.amazonaws.com/ai_internship_badge.svg)](https://www.tublian.com/profile/Josh012006)
-  
+
+  You can find all my certificates and proofs on my Linkedin Profile page.
 
 
-## 📪Let's connect
-Linkedin: https://www.linkedin.com/in/josu%C3%A9-mongan-a7b6242b8/    
-Personal website: https://josue-mongan.vercel.app/   
-Upwork: https://www.upwork.com/freelancers/~014b8554039621e5d3
 
-You can find all my certificates and proofs on my Linkedin Profile page.
 
