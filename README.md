@@ -3,6 +3,8 @@
   </div>
   <br />
 
+  <div align="center"> <h3>Welcome to My Coding Journey 🚀</h3> <p>I'm Josué, a passionate **full-stack developer** and **future robotics engineer** with a love for creating meaningful software solutions. Whether it's designing seamless web applications, building game engines in C++, or exploring the depths of computer vision, I'm always eager to learn, innovate, and share. Dive into my projects and see how I bring ideas to life through code!</p> </div>
+
 - 🚀 I'm currently pursuing a **Bachelor of Computer Science**. I've also been **sharpening my skills in software development** while working on an exciting **2D mini-game project** 🎮 using **C++**. I'm also diving into **Qt** and **OpenCV** to broaden my expertise in application development and computer vision.  
 - ⭐ Check out my top repositories! Feel free to contribute or leave a star 💫—your feedback means a lot to me.
 
