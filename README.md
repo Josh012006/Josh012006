@@ -73,8 +73,6 @@ ___
 
 <div align="left">
     <img src="https://skillicons.dev/icons?i=github,git,vercel,sass,svg,cmake,pycharm,clion,vscode&perline=6" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original.svg" height="40" width="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodemon/nodemon-original.svg" height="40" width="40" />
 </div>
 
 ### Currently Learning
