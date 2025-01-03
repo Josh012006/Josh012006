@@ -97,7 +97,7 @@ ___
 <table align=center style="width: 100%;">
   <tr>
     <td style="width: 50%; text-align: center;">
-      <img src="https://github-readme-stats.vercel.app/api?username=Josh012006&show_icons=true&langs_count=10&text_color=000000&title_color=1FA0D2&bg_color=F1F6F9&layout=compact&border_color=0000BB&icon_color=1FA0D2" alt="Josh's GitHub stats" style="max-width: 100%; height: auto;">
+      <img src="https://github-readme-stats.vercel.app/api?username=Josh012006&show_icons=true&langs_count=10&text_color=000000&title_color=1FA0D2&bg_color=F1F6F9&layout=compact&icon_color=1FA0D2&border_color=0000BB" alt="Josh's GitHub stats" style="max-width: 100%; height: auto;">
     </td>
     <td style="width: 50%; text-align: center;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josh012006&langs_count=10&layout=compact&border_color=0000BB&text_color=000000&title_color=1FA0D2&bg_color=F1F6F9" alt="Top Langs" style="max-width: 100%; height: auto;">
