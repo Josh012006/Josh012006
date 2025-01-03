@@ -63,12 +63,16 @@ ___
     <img src="https://skillicons.dev/icons?i=mysql,mongodb,postman" />
 </div>
 
-### Other Tools and Librairies
+### Librairies
 
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=redux,github,git,vercel,sass,cmake,svg" />
+    <img src="https://skillicons.dev/icons?i=redux,jquery,sfml" />
 </div>
+
+### Other Tools 
+
 <div align="left">
+    <img src="https://skillicons.dev/icons?i=github,git,vercel,sass,svg,cmake" />
     <img src="https://skillicons.dev/icons?i=pycharm,clion,vscode" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original.svg" height="40" width="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodemon/nodemon-original.svg" height="40" width="40" />
