@@ -42,38 +42,37 @@ ___
 ### Main Programming Languages
 
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,c,cpp,py" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,c,cpp,py&perline=6" />
 </div>
 
 ### Frontend Frameworks and Skills
 
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=react,vite,nextjs,bootstrap,tailwind,materialui" />
+    <img src="https://skillicons.dev/icons?i=react,vite,nextjs,bootstrap,tailwind,materialui&perline=6" />
 </div>
 
 ### Backend Frameworks and Skills
 
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,npm" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,npm&perline=6" />
 </div>
 
 ### Databases
 
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,postman" />
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,postman&perline=6" />
 </div>
 
 ### Librairies
 
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=redux,jquery,sfml" />
+    <img src="https://skillicons.dev/icons?i=redux,jquery&perline=6" />
 </div>
 
 ### Other Tools 
 
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=github,git,vercel,sass,svg,cmake" />
-    <img src="https://skillicons.dev/icons?i=pycharm,clion,vscode" />
+    <img src="https://skillicons.dev/icons?i=github,git,vercel,sass,svg,cmake,pycharm,clion,vscode&perline=6" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original.svg" height="40" width="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodemon/nodemon-original.svg" height="40" width="40" />
 </div>
