@@ -79,7 +79,7 @@ ___
 ### Currently Learning
 
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=opencv,qt,threejs" />
+    <img src="https://skillicons.dev/icons?i=opencv,qt,threejs,java" />
 </div>
 
 <p align="center">
