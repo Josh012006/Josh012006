@@ -48,7 +48,7 @@ ___
 ### Frontend Frameworks and Skills
 
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,vue,vite,bootstrap,tailwind,materialui&perline=6" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,vite,bootstrap,tailwind,materialui&perline=6" />
 </div>
 
 ### Backend Frameworks and Skills
