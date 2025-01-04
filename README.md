@@ -14,7 +14,8 @@
 - Proficient in **HTML5**, **CSS3**, and JavaScript (**ES6**, **DOM manipulation**) with frameworks like **Bootstrap** and **Tailwind CSS**.  
 - Experienced in creating server-side applications with **Node.js** and **Express.js**, including rendering views using **Handlebars** and **Pug**.  
 - Skilled in building responsive and interactive front-end applications with **React** and **Redux** (**Redux Toolkit**) and working with **TypeScript** for type-safe projects.  
-- Capable of developing full-stack applications using the **MERN** stack (**MongoDB, Express, React, Node.js**) and building scalable apps with **Next.js**.  
+- Capable of developing full-stack applications using the **MERN** stack (**MongoDB, Express, React, Node.js**) and building scalable apps with **Next.js**.
+- Able to develop Vue.js applications and build full-stack applications with **Nuxt.js**.  
 
 #### Programming & Databases:
 - Strong foundation in **C++** (**OOP**, STL, SFML) and **C**, the first language I mastered.  
