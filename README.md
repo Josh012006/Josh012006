@@ -49,13 +49,19 @@ ___
 ### Frontend Frameworks and Skills
 
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vite,bootstrap,tailwind,materialui&perline=6" />
+    <img src="https://skillicons.dev/icons?i=html,css,react,vue,vite,tailwind,bootstrap,materialui&perline=6" />
 </div>
 
 ### Backend Frameworks and Skills
 
 <div align="left">
     <img src="https://skillicons.dev/icons?i=nodejs,express,npm&perline=6" />
+</div>
+
+### Fullstack Frameworks
+
+<div align="left">
+    <img src="https://skillicons.dev/icons?i=nextjs,nuxtjs&perline=6" />
 </div>
 
 ### Databases
@@ -79,7 +85,7 @@ ___
 ### Currently Learning
 
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=vue,nuxtjs,java,opencv,qt,threejs" />
+    <img src="https://skillicons.dev/icons?i=java,opencv,qt,threejs" />
 </div>
 
 <p align="center">
