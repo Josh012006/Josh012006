@@ -37,7 +37,7 @@
 
 ### 🎉 Fun Facts:
 - I'm passionate about **computer science** and have a knack for taking apart and reassembling electronic devices (don't leave your gadgets lying around! 🤭).  
-- When I'm not coding, you can find me playing 🎹 **piano**, buried in a great 📚 **book**, or exploring new tech trends.
+- When I'm not coding, you can find me playing 🎹 **piano**, buried in a great 📚 **book**, or exploring new **animes**.
 
 ___
 ### Main Programming Languages
