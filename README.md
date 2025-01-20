@@ -15,7 +15,7 @@
 - Experienced in creating server-side applications with **Node.js** and **Express.js**, including rendering views using **Handlebars** and **Pug**.  
 - Skilled in building responsive and interactive front-end applications with **React** and **Redux** (**Redux Toolkit**) and working with **TypeScript** for type-safe projects.  
 - Capable of developing full-stack applications using the **MERN** stack (**MongoDB, Express, React, Node.js**) and building scalable apps with **Next.js**.
-<!--- Able to develop **Vue.js** applications and build full-stack applications with **Nuxt.js**.  -->
+- Able to develop **Vue.js** applications and build full-stack applications with **Nuxt.js**.
 
 #### Programming & Databases:
 - Strong foundation in **C++** (**OOP**, STL, SFML) and **C**, the first language I mastered.  
@@ -43,13 +43,13 @@ ___
 ### Main Programming Languages
 
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,c,cpp,py&perline=6" />
+    <img src="https://skillicons.dev/icons?i=js,ts,c,cpp,py&perline=6" />
 </div>
 
 ### Frontend Frameworks and Skills
 
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,vite,bootstrap,tailwind,materialui&perline=6" />
+    <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vite,bootstrap,tailwind,materialui&perline=6" />
 </div>
 
 ### Backend Frameworks and Skills
