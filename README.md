@@ -85,7 +85,7 @@ ___
 ### Tools and IDE
 
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=github,git,vercel,cmake,pycharm,clion,vscode&perline=6" />
+    <img src="https://skillicons.dev/icons?i=github,git,cmake,pycharm,clion,vscode&perline=6" />
 </div>
 
 ### Currently Learning
