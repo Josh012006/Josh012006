@@ -82,10 +82,16 @@ ___
     <img src="https://skillicons.dev/icons?i=vercel,render&perline=6" />
 </div>
 
+### Automation and Scripting
+
+<div align="left">
+    <img src="https://skillicons.dev/icons?i=bash&perline=6" />
+</div>
+
 ### Tools and IDE
 
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=github,git,cmake,pycharm,clion,vscode&perline=6" />
+    <img src="https://skillicons.dev/icons?i=github,git,vscode,pycharm,clion,idea,cmake&perline=6" />
 </div>
 
 ### Currently Learning
