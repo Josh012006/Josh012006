@@ -49,7 +49,7 @@ ___
 ### Frontend Frameworks and Skills
 
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=html,css,react,vue,vite,tailwind,bootstrap,materialui&perline=6" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,svg,react,vue,vite,tailwind,bootstrap,materialui&perline=6" />
 </div>
 
 ### Backend Frameworks and Skills
@@ -76,10 +76,16 @@ ___
     <img src="https://skillicons.dev/icons?i=redux,jquery&perline=6" />
 </div>
 
-### Other Tools 
+### Hosting
 
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=github,git,vercel,sass,svg,cmake,pycharm,clion,vscode&perline=6" />
+    <img src="https://skillicons.dev/icons?i=vercel,render&perline=6" />
+</div>
+
+### Tools and IDE
+
+<div align="left">
+    <img src="https://skillicons.dev/icons?i=github,git,vercel,cmake,pycharm,clion,vscode&perline=6" />
 </div>
 
 ### Currently Learning
