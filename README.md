@@ -28,7 +28,7 @@
 - Continuously expanding my knowledge through self-learning and practical projects.
 
 ### 🌟 What I'm Looking For:
-- **Opportunity Alert**: I'm actively seeking a **remote, paid internship** as a junior software developer to gain hands-on experience and contribute to impactful projects.  
+- **Opportunity Alert**: I'm looking for **impactful and interesting projects** to work on in other to gain **connections and hands-on experience**.  
 
 ### 📬 Get in Touch:
 - Email: **[josuesmjr.mongan@gmail.com](mailto:josuesmjr.mongan@gmail.com)**  
@@ -36,7 +36,8 @@
 - Portfolio: **[My Website](https://josue-mongan.vercel.app/)**
 
 ### 🎉 Fun Facts:
-- I'm passionate about **computer science** and have a knack for taking apart and reassembling electronic devices (don't leave your gadgets lying around! 🤭).  
+- I'm passionate about **computer science** and have a knack for taking apart and reassembling electronic devices (don't leave your gadgets lying around! 🤭).
+- I'm a **christian** always trying to introduce **Jesus' peace and love** everywhere I go.
 - When I'm not coding, you can find me playing 🎹 **piano**, buried in a great 📚 **book**, or exploring new **animes**.
 
 ___
