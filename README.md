@@ -2,6 +2,7 @@
   <h1>Hi there 👋🏼, I'm Josué</h1>
   <h3>Fullstack web developer and Interested in Engineering</h3>
 </div>
+
 <br />
 
 <div align="center"> <h3>Welcome to My Coding Journey 🚀</h3> <p>I'm Josué, a passionate full-stack developer and future robotics engineer with a love for creating meaningful software solutions. Whether it's designing seamless web applications, building game engines in C++, or exploring the depths of computer vision, I'm always eager to learn, innovate, and share. Dive into my projects and see how I bring ideas to life through code!</p> </div>
@@ -9,9 +10,9 @@
 - 🚀 I'm currently pursuing a **Bachelor of Computer Science**. I've also been **sharpening my skills in software development** while working on an exciting **2D mini-game project** 🎮 using **C++**. I'm also diving into **Qt** and **OpenCV** to broaden my expertise in application development and computer vision.  
 - ⭐ Check out my top repositories! Feel free to contribute or leave a star 💫—your feedback means a lot to me.
 
-## 💪 Skills Overview:
+# 💪 Skills Overview:
 
-### Web Development:
+## Web Development:
 
 - Proficient in **HTML5**, **CSS3**, and JavaScript (**ES6**, **DOM manipulation**) with frameworks like **Bootstrap** and **Tailwind CSS**.  
 - Experienced in creating server-side applications with **Node.js** and **Express.js**, including rendering views using **Handlebars** and **Pug**.  
@@ -19,33 +20,33 @@
 - Capable of developing full-stack applications using the **MERN** stack (**MongoDB, Express, React, Node.js**) and building scalable apps with **Next.js**.
 - Able to develop **Vue.js** applications and build full-stack applications with **Nuxt.js**.
 
-#### Languages
+### Languages
 
 <div align="left">
     <img src="https://skillicons.dev/icons?i=html,css,sass,svg,js,ts,nodejs,npm&perline=8" />
 </div>
 
-#### Frontend, Backend and Fullstack Frameworks
+### Frontend, Backend and Fullstack Frameworks
 
 <div align="left">
     <img src="https://skillicons.dev/icons?i=react,vue,tailwind,bootstrap,express,nextjs,nuxtjs&perline=8" />
 </div>
 
-#### Librairies
+### Librairies
 
 <div align="left">
     <img src="https://skillicons.dev/icons?i=materialui,vite,redux,jquery&perline=8" />
 </div>
 
-#### Hosting
+### Hosting
 
 <div align="left">
     <img src="https://skillicons.dev/icons?i=vercel,render&perline=8" />
 </div>
 
+<hr style="width: 50%; margin: auto;">
 
-
-### System Programming & Databases:
+## System Programming & Databases:
 
 - Strong foundation in **C++** (**OOP**, STL, **SFML**) and **C**, the first language I mastered. 
 - Able to write clean and sustainable code in **Java**.
@@ -55,62 +56,64 @@
   - **SQL**: Expertise in DDL, DML, and DQL operations.  
   - **NoSQL**: Hands-on experience with **MongoDB** and **Mongoose**.  
 
-#### Main Programming Languages
+### Main Programming Languages
 
 <div align="left">
     <img src="https://skillicons.dev/icons?i=c,cpp,java,py&perline=8" />
 </div>
 
-#### Material axed languages and scripts
+### Material axed languages and scripts
 
 <div align="left">
     <img src="https://skillicons.dev/icons?i=bash&perline=6" />
 </div>
 
-#### Databases techs
+### Databases techs
 
 <div align="left">
     <img src="https://skillicons.dev/icons?i=mysql,mongodb,postman&perline=8" />
 </div>
 
+<hr style="width: 50%; margin: auto;">
 
-
-### Additional Skills:
+## Additional Skills:
 
 - Solid understanding of **Object-Oriented Programming** in both C++, Java and JavaScript.  
 - Ability to work with many different **tools and IDE**.
 - Continuously expanding my knowledge through self-learning and practical projects.
 
-#### Tools and IDE
+### Tools and IDE
 
 <div align="left">
     <img src="https://skillicons.dev/icons?i=github,git,vscode,pycharm,clion,idea,cmake&perline=6" />
 </div>
 
-#### Currently Learning
+### Currently Learning
 
 <div align="left">
     <img src="https://skillicons.dev/icons?i=haskell,opencv,qt,threejs" />
 </div>
 
+<br />
 
-## 🌟 What I'm Looking For:
+# 🌟 What I'm Looking For:
 - **Opportunity Alert**: I'm looking for **impactful and interesting projects** to work on in other to gain **connections and hands-on experience**.  
 
 
-## 📬 Get in Touch:
+# 📬 Get in Touch:
 - Email: **[josuesmjr.mongan@gmail.com](mailto:josuesmjr.mongan@gmail.com)**  
 - LinkedIn: **[My Profile](https://www.linkedin.com/in/josu%C3%A9-mongan-a7b6242b8/)**
 - Portfolio: **[My Website](https://josue-mongan.vercel.app/)**
 
 
-## 🎉 Fun Facts:
+# 🎉 Fun Facts:
 - I'm passionate about **computer science** and have a knack for taking apart and reassembling electronic devices (don't leave your gadgets lying around! 🤭).
 - I'm a **christian** always trying to introduce **👑 Jesus' peace and love** everywhere I go.
 - When I'm not coding, you can find me playing 🎹 **piano**, buried in a great 📚 **book**, or exploring new **animes** 🈺.
 
+<br />
 
-## My activities
+# My activities
 
 <p align="center">
   <a>
@@ -122,8 +125,9 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Josh012006&&style=flat-square" align="center" />
-</div> 
-___
+</div>
+
+<hr style="width: 50%; margin: auto;">
 
 <table align=center style="width: 100%;">
   <tr>
@@ -137,30 +141,31 @@ ___
 </table>
 
 
-## Current projects
+# Current projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Josh012006&repo=RPG-Game&bg_color=F1F6F9&icon_color=1FA0D2&border_color=0000BB&text_color=000000&title_color=1FA0E9)](https://github.com/Josh012006/RPG-Game)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Josh012006&repo=CookGen&bg_color=F1F6F9&icon_color=1FA0D2&border_color=0000BB&text_color=000000&title_color=1FA0E9)](https://github.com/Josh012006/CookGen)
 
 
-## Top repositories
+# Top repositories
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Josh012006&repo=Appointment-App&bg_color=F1F6F9&icon_color=1FA0D2&text_color=000000&title_color=1FA0E9&border_color=0000BB)](https://github.com/Josh012006/Appointment-App)
-    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Josh012006&repo=PRODIGY_FS_05&bg_color=F1F6F9&icon_color=1FA0D2&border_color=0000BB&text_color=000000&title_color=1FA0E9)](https://github.com/Josh012006/PRODIGY_FS_05)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Josh012006&repo=PRODIGY_FS_05&bg_color=F1F6F9&icon_color=1FA0D2&border_color=0000BB&text_color=000000&title_color=1FA0E9)](https://github.com/Josh012006/PRODIGY_FS_05)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Josh012006&repo=Tasks-Manager&bg_color=F1F6F9&icon_color=1FA0D2&border_color=0000BB&text_color=000000&title_color=1FA0E9)](https://github.com/Josh012006/Tasks-Manager)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Josh012006&repo=Express&bg_color=F1F6F9&icon_color=1FA0D2&border_color=0000BB&text_color=000000&title_color=1FA0E9)](https://github.com/Josh012006/Express)
 
+<br />
 
-## Some of my achievements
+# Some of my achievements
 
-### Websites links
+## Websites links
   - Edabit: https://edabit.com/user/X6cvktRthAp3xdGBw
   - CodeWars: https://www.codewars.com/users/Josh012006  
   - Codingame: https://www.codingame.com/profile/6b5fb48d2ae5c775c85fb627283309be6978985
   - Codecademy: https://www.codecademy.com/profiles/css4797044962
   - HackerRank: https://www.hackerrank.com/profile/josuesmjr_mongan
 
-### My badges
+## My badges
 
   [![Codewars](https://www.codewars.com/users/Josh012006/badges/micro)](https://www.codewars.com/users/Josh012006)
   [![Tublian](https://tublian-newsletter-assets.s3.amazonaws.com/ai_internship_badge.svg)](https://www.tublian.com/profile/Josh012006)
