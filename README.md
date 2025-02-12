@@ -44,7 +44,7 @@
     <img src="https://skillicons.dev/icons?i=vercel,render&perline=8" />
 </div>
 
-<hr style="width: 50%; margin: auto;">
+                                                     ---
 
 ## System Programming & Databases:
 
@@ -74,7 +74,7 @@
     <img src="https://skillicons.dev/icons?i=mysql,mongodb,postman&perline=8" />
 </div>
 
-<hr style="width: 50%; margin: auto;">
+                                                     ---
 
 ## Additional Skills:
 
@@ -85,13 +85,13 @@
 ### Tools and IDE
 
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=github,git,vscode,pycharm,clion,idea,cmake&perline=6" />
+    <img src="https://skillicons.dev/icons?i=github,git,vscode,pycharm,clion,idea,cmake&perline=8" />
 </div>
 
 ### Currently Learning
 
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=haskell,opencv,qt,threejs" />
+    <img src="https://skillicons.dev/icons?i=haskell,opencv,qt,threejs&perline=8" />
 </div>
 
 <br />
