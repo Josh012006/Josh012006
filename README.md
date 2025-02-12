@@ -107,7 +107,7 @@
 ## 🎉 Fun Facts:
 - I'm passionate about **computer science** and have a knack for taking apart and reassembling electronic devices (don't leave your gadgets lying around! 🤭).
 - I'm a **christian** always trying to introduce **👑 Jesus' peace and love** everywhere I go.
-- When I'm not coding, you can find me playing 🎹 **piano**, buried in a great 📚 **book**, or exploring new **animes** 🇯🇵🈺.
+- When I'm not coding, you can find me playing 🎹 **piano**, buried in a great 📚 **book**, or exploring new **animes** 🈺.
 
 
 ## My activities
