@@ -44,7 +44,7 @@
     <img src="https://skillicons.dev/icons?i=vercel,render&perline=8" />
 </div>
 
-                                                     ---
+---
 
 ## System Programming & Databases:
 
@@ -74,7 +74,7 @@
     <img src="https://skillicons.dev/icons?i=mysql,mongodb,postman&perline=8" />
 </div>
 
-                                                     ---
+---
 
 ## Additional Skills:
 
