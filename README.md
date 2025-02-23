@@ -23,13 +23,13 @@
 ### Languages
 
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,svg,js,ts&perline=8" />
+    <img src="https://skillicons.dev/icons?i=html,css,svg,js,ts&perline=8" />
 </div>
 
-### Frontend, Backend and Fullstack Frameworks
+### Frontend, Backend and Fullstack Tech
 
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=react,vue,tailwind,bootstrap,nodejs,express,nextjs,nuxtjs&perline=8" />
+    <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,sass,react,vue,nodejs,express,nextjs,nuxtjs&perline=8" />
 </div>
 
 ### Librairies
