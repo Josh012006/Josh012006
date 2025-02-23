@@ -23,13 +23,13 @@
 ### Languages
 
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,svg,js,ts,nodejs,npm&perline=8" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,svg,js,ts&perline=8" />
 </div>
 
 ### Frontend, Backend and Fullstack Frameworks
 
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=react,vue,tailwind,bootstrap,express,nextjs,nuxtjs&perline=8" />
+    <img src="https://skillicons.dev/icons?i=react,vue,tailwind,bootstrap,nodejs,express,nextjs,nuxtjs&perline=8" />
 </div>
 
 ### Librairies
@@ -85,7 +85,7 @@
 ### Tools and IDE
 
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=github,git,vscode,pycharm,clion,idea,cmake&perline=8" />
+    <img src="https://skillicons.dev/icons?i=github,git,npm,vscode,pycharm,clion,idea,cmake&perline=8" />
 </div>
 
 ### Currently Learning
