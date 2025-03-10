@@ -1,6 +1,6 @@
 <div align=center>
   <h1>Hi there 👋🏼, I'm Josué</h1>
-  <h3>Fullstack web developer and Interested in Engineering</h3>
+  <h3>Software developer and Interested in Engineering</h3>
 </div>
 
 <br />
