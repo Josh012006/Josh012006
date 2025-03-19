@@ -91,7 +91,7 @@
 ### Currently Learning
 
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=haskell,opencv,qt,threejs&perline=8" />
+    <img src="https://skillicons.dev/icons?i=haskell,opencv,qt,threejs,latex&perline=8" />
 </div>
 
 <br />
