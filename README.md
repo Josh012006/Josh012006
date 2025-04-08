@@ -48,7 +48,7 @@
 
 ## System Programming & Databases:
 
-- Strong foundation in **C++** (**OOP**, STL, **SFML**) and **C**, the first language I mastered. 
+- Strong foundation in **C++** (**OOP**, STL, **SFML**) and **C**, the first language I learned. 
 - Able to write clean and sustainable code in **Java**.
 - Able to write simple and efficient programs in **Python**.
 - Can also use material and system languages like **LMC**, **Bash** and **VHDL**.
