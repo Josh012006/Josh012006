@@ -5,9 +5,9 @@
 
 <br />
 
-<div align="center"> <h3>Welcome to My Coding Journey 🚀</h3> <p>I'm Josué, a passionate full-stack developer and future robotics engineer with a love for creating meaningful software solutions. Whether it's designing seamless web applications, building game engines in C++, or exploring the depths of computer vision, I'm always eager to learn, innovate, and share. Dive into my projects and see how I bring ideas to life through code!</p> </div>
+<div align="center"> <h3>Welcome to My Coding Journey 🚀</h3> <p>I'm Josué, a passionate full-stack developer and future robotics engineer with a love for creating meaningful software solutions. Whether it's designing seamless web applications, building game engines in C++, studying functions in Haskell, or exploring the depths of computer vision, I'm always eager to learn, innovate, and share. Dive into my projects and see how I bring ideas to life through code!</p> </div>
 
-- 🚀 I'm currently pursuing a **Bachelor of Computer Science**. I've also been **sharpening my skills in software development** while working on an exciting **2D mini-game project** 🎮 using **C++**. I'm also diving into **React Native**, **Qt** and **OpenCV** to broaden my expertise in application development and computer vision.  
+- 🚀 I'm currently pursuing a **Bachelor of Computer Science**. I've also been **sharpening my skills in software development** while working on an exciting **2D mini-game project** 🎮 using **C++** and a **robotic system modeling language** in **Haskell**. I'm also diving into **React Native**, **Qt** and **OpenCV** to broaden my expertise in application development and computer vision.  
 - ⭐ Check out my top repositories! Feel free to contribute or leave a star 💫—your feedback means a lot to me.
 
 # 💪 Skills Overview:
@@ -51,6 +51,7 @@
 - Strong foundation in **C++** (**OOP**, STL, **SFML**) and **C**, the first language I learned. 
 - Able to write clean and sustainable code in **Java**.
 - Able to write simple and efficient programs in **Python**.
+- Understands **functional programming** and uses **Haskell** to write minimal and optimized code.
 - Can also use material and system languages like **LMC**, **Bash** and **VHDL**.
 - Proficient in database management:
   - **SQL**: Expertise in DDL, DML, and DQL operations.  
@@ -59,7 +60,7 @@
 ### Main Programming Languages
 
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,py&perline=8" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,haskell&perline=8" />
 </div>
 
 ### Material axed languages and scripts
@@ -91,7 +92,7 @@
 ### Currently Learning
 
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=haskell,opencv,qt,threejs,latex&perline=8" />
+    <img src="https://skillicons.dev/icons?i=latex,opencv,qt,threejs&perline=8" />
 </div>
 
 <br />
