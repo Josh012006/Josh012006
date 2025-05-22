@@ -79,20 +79,21 @@
 
 ## Additional Skills:
 
-- Solid understanding of **Object-Oriented Programming** in both C++, Java and JavaScript.  
+- Solid understanding of **Object-Oriented Programming** in both C++, Java and JavaScript.
+- Able to write research papers with **LaTeX**.
 - Ability to work with many different **tools and IDE**.
 - Continuously expanding my knowledge through self-learning and practical projects.
 
 ### Tools and IDE
 
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=github,git,npm,vscode,pycharm,clion,idea,cmake&perline=8" />
+    <img src="https://skillicons.dev/icons?i=latex,github,git,npm,vscode,pycharm,clion,idea,cmake&perline=8" />
 </div>
 
 ### Currently Learning
 
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=latex,opencv,qt,threejs&perline=8" />
+    <img src="https://skillicons.dev/icons?i=opencv,qt,threejs&perline=8" />
 </div>
 
 <br />
