@@ -151,7 +151,7 @@
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Josh012006&repo=Appointment-App&bg_color=F1F6F9&icon_color=1FA0D2&title_color=1FA0E9&border_color=0000BB&text_color=000000)](https://github.com/Josh012006/Appointment-App)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Josh012006&repo=PRODIGY_FS_05&bg_color=F1F6F9&icon_color=1FA0D2&border_color=0000BB&text_color=000000&title_color=1FA0E9)](https://github.com/Josh012006/PRODIGY_FS_05)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Josh012006&repo=Projet1-IFT2015&bg_color=F1F6F9&icon_color=1FA0D2&text_color=000000&border_color=0000BB&title_color=1FA0E9)](https://github.com/Josh012006/Projet1-IFT2015)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Josh012006&repo=Tasks-Manager&bg_color=F1F6F9&icon_color=1FA0D2&border_color=0000BB&text_color=000000&title_color=1FA0E9)](https://github.com/Josh012006/Tasks-Manager)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Josh012006&repo=TP2-IFT2035&bg_color=F1F6F9&icon_color=1FA0D2&border_color=0000BB&text_color=000000&title_color=1FA0E9)](https://github.com/Josh012006/TP2-IFT2035)
 
 <br />
 
