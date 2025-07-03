@@ -93,7 +93,7 @@
 ### Currently Learning
 
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=opencv,qt,threejs&perline=8" />
+    <img src="https://skillicons.dev/icons?i=docker,threejs,opencv,qt&perline=8" />
 </div>
 
 <br />
