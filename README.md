@@ -55,7 +55,7 @@
 - Can also use material and system languages like **LMC**, **Bash** and **VHDL**.
 - Proficient in database management:
   - **SQL**: Expertise in DDL, DML, and DQL operations.  
-  - **NoSQL**: Hands-on experience with **MongoDB** and **Mongoose**.  
+  - **NoSQL**: Hands-on experience with **MongoDB**, **Mongoose** and **Morphia**.  
 
 ### Main Programming Languages
 
