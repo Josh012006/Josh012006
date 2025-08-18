@@ -41,7 +41,7 @@
 ### Hosting techs
 
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=vercel,render,docker&perline=8" />
+    <img src="https://skillicons.dev/icons?i=vercel,docker&perline=8" />
 </div>
 
 
