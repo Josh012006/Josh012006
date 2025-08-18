@@ -55,7 +55,8 @@
 - Can also use material and system languages like **LMC**, **Bash** and **VHDL**.
 - Proficient in database management:
   - **SQL**: Expertise in DDL, DML, and DQL operations.  
-  - **NoSQL**: Hands-on experience with **MongoDB**, **Mongoose** and **Morphia**.  
+  - **NoSQL**: Hands-on experience with **MongoDB**, **Mongoose** and **Morphia**.
+  - **Strapi**: Can use this headless CMS to manage data in a **Nuxt.js** application.
 
 ### Main Programming Languages
 
