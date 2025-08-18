@@ -38,10 +38,10 @@
     <img src="https://skillicons.dev/icons?i=materialui,vite,redux,pinia,jquery&perline=8" />
 </div>
 
-### Hosting
+### Hosting techs
 
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=vercel,render&perline=8" />
+    <img src="https://skillicons.dev/icons?i=vercel,render,docker&perline=8" />
 </div>
 
 
@@ -88,13 +88,13 @@
 ### Tools and IDE
 
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=latex,github,git,npm,vscode,pycharm,clion,idea,cmake&perline=8" />
+    <img src="https://skillicons.dev/icons?i=latex,github,git,npm,yarn,cmake,vscode,pycharm,clion,idea&perline=8" />
 </div>
 
 ### Currently Learning
 
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=docker,threejs,opencv,qt&perline=8" />
+    <img src="https://skillicons.dev/icons?i=threejs,opencv,qt&perline=8" />
 </div>
 
 <br />
