@@ -49,6 +49,7 @@ You can contact me via :
     <img src="https://skillicons.dev/icons?i=html,css,svg,js,ts,tailwind,bootstrap,sass,react,vue,nodejs,express,nextjs,nuxtjs,materialui,vite,redux,pinia,jquery,vercel,docker" />
 </div>
 
+<br />
 
 I'm also proficient in database management:
   - **SQL**: Expertise in DDL, DML, and DQL operations.  
@@ -60,7 +61,7 @@ I'm also proficient in database management:
 </div>
 
 
-## System Programming & Databases:
+## Software Engineering:
 
 - Strong foundation in **C++** (**OOP**, **STL**, **SFML**) and **C**, the first language I learned. 
 - Able to write clean and sustainable code in **Java**.
@@ -76,13 +77,14 @@ I'm also proficient in database management:
 
 - Able to write research papers with **LaTeX**.
 - Ability to work with many different **tools and IDE**.
-- Continuously expanding my knowledge through self-learning and practical projects.
 
 <div align="left">
     <img src="https://skillicons.dev/icons?i=latex,github,git,npm,yarn,cmake,vscode,pycharm,clion,idea" />
 </div>
 
 ## Currently Learning
+
+I'm continuously expanding my knowledge through self-learning and practical projects. Right now I'm playing around with : 
 
 <div align="left">
     <img src="https://skillicons.dev/icons?i=threejs,opencv,qt" />
