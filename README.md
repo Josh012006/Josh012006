@@ -1,6 +1,6 @@
 <div align=center>
   <h1>Hi there 👋🏼, I'm Josué</h1>
-  <h3>Software developer passioned about automation</h3>
+  <h3>Software developer passionate about automation</h3>
 </div>
 
 <br />
