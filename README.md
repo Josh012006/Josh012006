@@ -10,7 +10,8 @@
 - 🚀 I'm currently pursuing a **Bachelor of Computer Science**. I've also been **sharpening my skills in software development** while working on an exciting **2D mini-game project** 🎮 using **C++** and a **robotic system modeling language** in **Haskell**. I'm also diving into **React Native**, **Qt** and **OpenCV** to broaden my expertise in application development and computer vision.  
 - ⭐ Check out my top repositories! Feel free to contribute or leave a star 💫—your feedback means a lot to me.
 
-- # 📬 Get in Touch:
+You can contact me via : 
+
 - Email: **[josuesmjr.mongan@gmail.com](mailto:josuesmjr.mongan@gmail.com)**  
 - LinkedIn: **[My Profile](https://www.linkedin.com/in/josu%C3%A9-mongan-a7b6242b8/)**
 - Portfolio: **[My Website](https://josue-mongan.vercel.app/)**
@@ -45,16 +46,17 @@
 - Able to develop **Vue.js** applications and build full-stack applications with **Nuxt.js**.
 
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=html,css,svg,js,ts,tailwind,bootstrap,sass,react,vue,nodejs,express,nextjs,nuxtjs,materialui,vite,redux,pinia,jquery,vercel,docker&perline=8" />
+    <img src="https://skillicons.dev/icons?i=html,css,svg,js,ts,tailwind,bootstrap,sass,react,vue,nodejs,express,nextjs,nuxtjs,materialui,vite,redux,pinia,jquery,vercel,docker" />
 </div>
 
-- Proficient in database management:
+
+I'm also proficient in database management:
   - **SQL**: Expertise in DDL, DML, and DQL operations.  
   - **NoSQL**: Hands-on experience with **MongoDB**, **Mongoose** and **Morphia**.
   - **Strapi**: Can use this headless CMS to manage data in a **Nuxt.js** application.
 
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,postman&perline=8" />
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,postman" />
 </div>
 
 
@@ -67,7 +69,7 @@
 - Can also use material and system languages like **LMC**, **Bash** and **VHDL**.
 
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,haskell,bash&perline=8" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,haskell,bash" />
 </div>
 
 ## Additional Skills:
@@ -76,15 +78,14 @@
 - Ability to work with many different **tools and IDE**.
 - Continuously expanding my knowledge through self-learning and practical projects.
 
-
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=latex,github,git,npm,yarn,cmake,vscode,pycharm,clion,idea&perline=8" />
+    <img src="https://skillicons.dev/icons?i=latex,github,git,npm,yarn,cmake,vscode,pycharm,clion,idea" />
 </div>
 
 ## Currently Learning
 
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=threejs,opencv,qt&perline=8" />
+    <img src="https://skillicons.dev/icons?i=threejs,opencv,qt" />
 </div>
 
 <br />
@@ -102,16 +103,6 @@
 
 # My activities
 
-<p align="center">
-  <a>
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=Josh012006&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo"
-      width="95%" alt="activity graph">
-  </a>
-</p>
-
-<hr style="width: 50%; margin: auto;">
-
 <table align=center style="width: 100%;">
   <tr>
     <td style="width: 50%; text-align: center;">
@@ -122,6 +113,16 @@
     </td>
   </tr>
 </table>
+
+<hr style="width: 50%; margin: auto;">
+
+<p align="center">
+  <a>
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=Josh012006&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo"
+      width="95%" alt="activity graph">
+  </a>
+</p>
 
 <br />
 
