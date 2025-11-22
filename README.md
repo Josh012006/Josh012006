@@ -10,6 +10,30 @@
 - 🚀 I'm currently pursuing a **Bachelor of Computer Science**. I've also been **sharpening my skills in software development** while working on an exciting **2D mini-game project** 🎮 using **C++** and a **robotic system modeling language** in **Haskell**. I'm also diving into **React Native**, **Qt** and **OpenCV** to broaden my expertise in application development and computer vision.  
 - ⭐ Check out my top repositories! Feel free to contribute or leave a star 💫—your feedback means a lot to me.
 
+- # 📬 Get in Touch:
+- Email: **[josuesmjr.mongan@gmail.com](mailto:josuesmjr.mongan@gmail.com)**  
+- LinkedIn: **[My Profile](https://www.linkedin.com/in/josu%C3%A9-mongan-a7b6242b8/)**
+- Portfolio: **[My Website](https://josue-mongan.vercel.app/)**
+
+---
+
+# Current projects
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Josh012006&repo=CookGen&bg_color=F1F6F9&icon_color=1FA0D2&border_color=0000BB&text_color=000000&title_color=1FA0E9&height=190)](https://github.com/Josh012006/CookGen)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Josh012006&repo=Jaspea&bg_color=F1F6F9&icon_color=1FA0D2&border_color=0000BB&text_color=000000&title_color=1FA0E9&height=190)](https://github.com/Josh012006/Jaspea)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Josh012006&repo=RPG-Game&bg_color=F1F6F9&icon_color=1FA0D2&border_color=0000BB&text_color=000000&title_color=1FA0E9&height=190)](https://github.com/Josh012006/RPG-Game)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Josh012006&repo=Finite-Automata&bg_color=F1F6F9&icon_color=1FA0D2&border_color=0000BB&text_color=000000&title_color=1FA0E9&height=190)](https://github.com/Josh012006/Finite-Automata)
+
+
+# Top repositories
+
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Josh012006&height=190&repo=IFT2255-ma-ville-bugbusters&bg_color=F1F6F9&icon_color=1FA0D2&border_color=0000BB&text_color=000000&title_color=1FA0E9)](https://github.com/Josh012006/IFT2255-ma-ville-bugbusters)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Josh012006&height=190&repo=Projet1-IFT2015&bg_color=F1F6F9&icon_color=1FA0D2&text_color=000000&border_color=0000BB&title_color=1FA0E9)](https://github.com/Josh012006/Projet1-IFT2015)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Josh012006&height=190&repo=TP2-IFT2035&bg_color=F1F6F9&icon_color=1FA0D2&border_color=0000BB&text_color=000000&title_color=1FA0E9)](https://github.com/Josh012006/TP2-IFT2035)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Josh012006&height=190&repo=Appointment-App&bg_color=F1F6F9&icon_color=1FA0D2&title_color=1FA0E9&text_color=000000&border_color=0000BB)](https://github.com/Josh012006/Appointment-App)
+
+<br />
+
 # 💪 Skills Overview:
 
 ## Web Development:
@@ -20,78 +44,44 @@
 - Capable of developing full-stack applications using the **MERN** stack (**MongoDB, Express, React, Node.js**) and building scalable apps with **Next.js**.
 - Able to develop **Vue.js** applications and build full-stack applications with **Nuxt.js**.
 
-### Languages
-
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=html,css,svg,js,ts&perline=8" />
+    <img src="https://skillicons.dev/icons?i=html,css,svg,js,ts,tailwind,bootstrap,sass,react,vue,nodejs,express,nextjs,nuxtjs,materialui,vite,redux,pinia,jquery,vercel,docker&perline=8" />
 </div>
 
-### Frontend, Backend and Fullstack Tech
-
-<div align="left">
-    <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,sass,react,vue,nodejs,express,nextjs,nuxtjs&perline=8" />
-</div>
-
-### Librairies
-
-<div align="left">
-    <img src="https://skillicons.dev/icons?i=materialui,vite,redux,pinia,jquery&perline=8" />
-</div>
-
-### Hosting techs
-
-<div align="left">
-    <img src="https://skillicons.dev/icons?i=vercel,docker&perline=8" />
-</div>
-
-
-
-## System Programming & Databases:
-
-- Strong foundation in **C++** (**OOP**, STL, **SFML**) and **C**, the first language I learned. 
-- Able to write clean and sustainable code in **Java**.
-- Able to write simple and efficient programs in **Python**.
-- Understands **functional programming** and uses **Haskell** to write minimal and optimized code.
-- Can also use material and system languages like **LMC**, **Bash** and **VHDL**.
 - Proficient in database management:
   - **SQL**: Expertise in DDL, DML, and DQL operations.  
   - **NoSQL**: Hands-on experience with **MongoDB**, **Mongoose** and **Morphia**.
   - **Strapi**: Can use this headless CMS to manage data in a **Nuxt.js** application.
-
-### Main Programming Languages
-
-<div align="left">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,haskell&perline=8" />
-</div>
-
-### Material axed languages and scripts
-
-<div align="left">
-    <img src="https://skillicons.dev/icons?i=bash&perline=6" />
-</div>
-
-### Databases techs
 
 <div align="left">
     <img src="https://skillicons.dev/icons?i=mysql,mongodb,postman&perline=8" />
 </div>
 
 
+## System Programming & Databases:
+
+- Strong foundation in **C++** (**OOP**, **STL**, **SFML**) and **C**, the first language I learned. 
+- Able to write clean and sustainable code in **Java**.
+- Able to write simple and efficient programs in **Python**.
+- Understands **functional programming** and uses **Haskell** to write minimal and optimized code.
+- Can also use material and system languages like **LMC**, **Bash** and **VHDL**.
+
+<div align="left">
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,haskell,bash&perline=8" />
+</div>
 
 ## Additional Skills:
 
-- Solid understanding of **Object-Oriented Programming** in both C++, Java and JavaScript.
 - Able to write research papers with **LaTeX**.
 - Ability to work with many different **tools and IDE**.
 - Continuously expanding my knowledge through self-learning and practical projects.
 
-### Tools and IDE
 
 <div align="left">
     <img src="https://skillicons.dev/icons?i=latex,github,git,npm,yarn,cmake,vscode,pycharm,clion,idea&perline=8" />
 </div>
 
-### Currently Learning
+## Currently Learning
 
 <div align="left">
     <img src="https://skillicons.dev/icons?i=threejs,opencv,qt&perline=8" />
@@ -101,12 +91,6 @@
 
 # 🌟 What I'm Looking For:
 - **Opportunity Alert**: I'm looking for **impactful and interesting projects** to work on in other to gain **connections and hands-on experience**.  
-
-
-# 📬 Get in Touch:
-- Email: **[josuesmjr.mongan@gmail.com](mailto:josuesmjr.mongan@gmail.com)**  
-- LinkedIn: **[My Profile](https://www.linkedin.com/in/josu%C3%A9-mongan-a7b6242b8/)**
-- Portfolio: **[My Website](https://josue-mongan.vercel.app/)**
 
 
 # 🎉 Fun Facts:
@@ -138,22 +122,6 @@
     </td>
   </tr>
 </table>
-
-
-# Current projects
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Josh012006&repo=CookGen&bg_color=F1F6F9&icon_color=1FA0D2&border_color=0000BB&text_color=000000&title_color=1FA0E9&height=190)](https://github.com/Josh012006/CookGen)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Josh012006&repo=Jaspea&bg_color=F1F6F9&icon_color=1FA0D2&border_color=0000BB&text_color=000000&title_color=1FA0E9&height=190)](https://github.com/Josh012006/Jaspea)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Josh012006&repo=RPG-Game&bg_color=F1F6F9&icon_color=1FA0D2&border_color=0000BB&text_color=000000&title_color=1FA0E9&height=190)](https://github.com/Josh012006/RPG-Game)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Josh012006&repo=Finite-Automata&bg_color=F1F6F9&icon_color=1FA0D2&border_color=0000BB&text_color=000000&title_color=1FA0E9&height=190)](https://github.com/Josh012006/Finite-Automata)
-
-
-# Top repositories
-
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Josh012006&height=190&repo=IFT2255-ma-ville-bugbusters&bg_color=F1F6F9&icon_color=1FA0D2&border_color=0000BB&text_color=000000&title_color=1FA0E9)](https://github.com/Josh012006/IFT2255-ma-ville-bugbusters)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Josh012006&height=190&repo=Projet1-IFT2015&bg_color=F1F6F9&icon_color=1FA0D2&text_color=000000&border_color=0000BB&title_color=1FA0E9)](https://github.com/Josh012006/Projet1-IFT2015)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Josh012006&height=190&repo=TP2-IFT2035&bg_color=F1F6F9&icon_color=1FA0D2&border_color=0000BB&text_color=000000&title_color=1FA0E9)](https://github.com/Josh012006/TP2-IFT2035)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Josh012006&height=190&repo=Appointment-App&bg_color=F1F6F9&icon_color=1FA0D2&title_color=1FA0E9&text_color=000000&border_color=0000BB)](https://github.com/Josh012006/Appointment-App)
 
 <br />
 
