@@ -3,8 +3,6 @@
   <h3>Software developer passionate about automation</h3>
 </div>
 
-<br />
-
 <div align="center"> <h3>Welcome to My Coding Journey 🚀</h3> <p>I'm Josué, a passionate full-stack developer and aspiring intelligent systems developer with a love for creating meaningful software solutions. Whether it's designing seamless web applications, building game engines in C++, studying functions in Haskell, or exploring the depths of computer vision, I'm always eager to learn, innovate, and share. Dive into my projects and see how I bring ideas to life through code!</p> </div>
 
 - 🚀 I'm currently pursuing a **Bachelor of Computer Science**. I've been **sharpening my skills in software development** while working on an exciting **2D mini-game project** 🎮 in **C++** and a **robotic system prototyping language** in **Haskell**. Additionally, I'm diving into **React Native**, **Qt** and **OpenCV** to broaden my expertise in application development and computer vision.  
