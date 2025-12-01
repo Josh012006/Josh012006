@@ -22,24 +22,24 @@ You can contact me via :
   <tr>
     <td>
       <a href="https://github.com/Josh012006/CookGen">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Josh012006&repo=CookGen&bg_color=F1F6F9&icon_color=1FA0D2&border_color=0000BB&text_color=000000&title_color=1FA0E9&height=190"/>
+        <img src="https://github-readme-stats-neon-beta-18.vercel.app/api/pin/?username=Josh012006&repo=CookGen&bg_color=F1F6F9&icon_color=1FA0D2&border_color=0000BB&text_color=000000&title_color=1FA0E9&height=190"/>
       <a>
     </td>
     <td>
       <a href="https://github.com/Josh012006/Jaspea">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Josh012006&repo=Jaspea&bg_color=F1F6F9&icon_color=1FA0D2&border_color=0000BB&text_color=000000&title_color=1FA0E9&height=190"/>
+        <img src="https://github-readme-stats-neon-beta-18.vercel.app/api/pin/?username=Josh012006&repo=Jaspea&bg_color=F1F6F9&icon_color=1FA0D2&border_color=0000BB&text_color=000000&title_color=1FA0E9&height=190"/>
       <a>
     </td>
   </tr>
   <tr>
     <td>
       <a href="https://github.com/Josh012006/RPG-Game">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Josh012006&repo=RPG-Game&bg_color=F1F6F9&icon_color=1FA0D2&border_color=0000BB&text_color=000000&title_color=1FA0E9&height=190"/>
+        <img src="https://github-readme-stats-neon-beta-18.vercel.app/api/pin/?username=Josh012006&repo=RPG-Game&bg_color=F1F6F9&icon_color=1FA0D2&border_color=0000BB&text_color=000000&title_color=1FA0E9&height=190"/>
       <a>
     </td>
     <td>
       <a href="https://github.com/Josh012006/Finite-Automata">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Josh012006&repo=Finite-Automata&bg_color=F1F6F9&icon_color=1FA0D2&border_color=0000BB&text_color=000000&title_color=1FA0E9&height=190"/>
+        <img src="https://github-readme-stats-neon-beta-18.vercel.app/api/pin/?username=Josh012006&repo=Finite-Automata&bg_color=F1F6F9&icon_color=1FA0D2&border_color=0000BB&text_color=000000&title_color=1FA0E9&height=190"/>
       <a>
     </td>
   </tr>
@@ -52,24 +52,24 @@ You can contact me via :
   <tr>
     <td>
       <a href="https://github.com/Josh012006/IFT2255-ma-ville-bugbusters">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Josh012006&repo=IFT2255-ma-ville-bugbusters&bg_color=F1F6F9&icon_color=1FA0D2&border_color=0000BB&text_color=000000&title_color=1FA0E9&height=190"/>
+        <img src="https://github-readme-stats-neon-beta-18.vercel.app/api/pin/?username=Josh012006&repo=IFT2255-ma-ville-bugbusters&bg_color=F1F6F9&icon_color=1FA0D2&border_color=0000BB&text_color=000000&title_color=1FA0E9&height=190"/>
       <a>
     </td>
     <td>
       <a href="https://github.com/Josh012006/Appointment-App">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Josh012006&repo=Appointment-App&bg_color=F1F6F9&icon_color=1FA0D2&border_color=0000BB&text_color=000000&title_color=1FA0E9&height=190"/>
+        <img src="https://github-readme-stats-neon-beta-18.vercel.app/api/pin/?username=Josh012006&repo=Appointment-App&bg_color=F1F6F9&icon_color=1FA0D2&border_color=0000BB&text_color=000000&title_color=1FA0E9&height=190"/>
       <a>
     </td>
   </tr>
   <tr>
     <td>
       <a href="https://github.com/Josh012006/Jeu-de-Glisse">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Josh012006&repo=Jeu-de-Glisse&bg_color=F1F6F9&icon_color=1FA0D2&border_color=0000BB&text_color=000000&title_color=1FA0E9&height=190"/>
+        <img src="https://github-readme-stats-neon-beta-18.vercel.app/api/pin/?username=Josh012006&repo=Jeu-de-Glisse&bg_color=F1F6F9&icon_color=1FA0D2&border_color=0000BB&text_color=000000&title_color=1FA0E9&height=190"/>
       <a>
     </td>
     <td>
       <a href="https://github.com/Josh012006/TP1-IFT3295">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Josh012006&repo=TP1-IFT3295&bg_color=F1F6F9&icon_color=1FA0D2&border_color=0000BB&text_color=000000&title_color=1FA0E9&height=190"/>
+        <img src="https://github-readme-stats-neon-beta-18.vercel.app/api/pin/?username=Josh012006&repo=TP1-IFT3295&bg_color=F1F6F9&icon_color=1FA0D2&border_color=0000BB&text_color=000000&title_color=1FA0E9&height=190"/>
       <a>
     </td>
   </tr>
