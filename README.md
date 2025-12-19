@@ -115,7 +115,9 @@ I'm also proficient in database management:
     <img src="https://skillicons.dev/icons?i=c,cpp,java,py,haskell,bash" />
 </div>
 
-I also love exploring with the **graphic and vizualization** pipelines (raster pipeline, ray tracing, path tracing). During my computer graphics course, I learned **rendering, modeling, shading and lighting** using **C++** and also **GLSL** and the **Three.js** library.
+<br />
+
+I also love exploring with the **graphic and vizualization** pipelines (raster pipeline, ray tracing, path tracing). During my computer graphics course, I learned **rendering, modeling, shading and lighting** using **C++**, **GLSL** and the **Three.js** library.
 
 <div align="left">
     <img src="https://skillicons.dev/icons?i=threejs" />
