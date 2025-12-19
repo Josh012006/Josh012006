@@ -103,17 +103,24 @@ I'm also proficient in database management:
 </div>
 
 
-## Software Engineering:
+## System, Software Engineering & Graphics:
 
 - Strong foundation in **C++** (**OOP**, **STL**, **SFML**) and **C**, the first language I learned. 
 - Able to write clean and sustainable code in **Java**.
-- Able to write simple and efficient programs in **Python**.
+- Able to write simple and efficient prototypes in **Python**.
 - Understands **functional programming** and uses **Haskell** to write minimal and optimized code.
 - Can also use material and system languages like **LMC**, **Bash** and **VHDL**.
 
 <div align="left">
     <img src="https://skillicons.dev/icons?i=c,cpp,java,py,haskell,bash" />
 </div>
+
+I also love exploring with the **graphic and vizualization** pipelines (raster pipeline, ray tracing, path tracing). During my computer graphics course, I learned **rendering, modeling, shading and lighting** using **C++** and also **GLSL** and the **Three.js** library.
+
+<div align="left">
+    <img src="https://skillicons.dev/icons?i=threejs" />
+</div>
+
 
 ## Additional Skills:
 
@@ -129,7 +136,7 @@ I'm also proficient in database management:
 I'm continuously expanding my knowledge through self-learning and practical projects. Right now I'm playing around with : 
 
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=threejs,opencv,qt" />
+    <img src="https://skillicons.dev/icons?i=opencv,qt" />
 </div>
 
 <br />
