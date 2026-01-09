@@ -75,13 +75,13 @@ You can contact me via :
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/Josh012006/TP2-IFT3295">
-        <img src="https://github-readme-stats-neon-beta-18.vercel.app/api/pin/?username=Josh012006&repo=TP2-IFT3295&bg_color=F1F6F9&icon_color=1FA0D2&border_color=0000BB&text_color=000000&title_color=1FA0E9&height=190"/>
+      <a href="https://github.com/Josh012006/Pythagorean-Tree">
+        <img src="https://github-readme-stats-neon-beta-18.vercel.app/api/pin/?username=Josh012006&repo=Pythagorean-Tree&bg_color=F1F6F9&icon_color=1FA0D2&border_color=0000BB&text_color=000000&title_color=1FA0E9&height=190"/>
       <a>
     </td>
     <td>
-      <a href="https://github.com/Josh012006/Pythagorean-Tree">
-        <img src="https://github-readme-stats-neon-beta-18.vercel.app/api/pin/?username=Josh012006&repo=Pythagorean-Tree&bg_color=F1F6F9&icon_color=1FA0D2&border_color=0000BB&text_color=000000&title_color=1FA0E9&height=190"/>
+      <a href="https://github.com/Josh012006/Tasks-Manager">
+        <img src="https://github-readme-stats-neon-beta-18.vercel.app/api/pin/?username=Josh012006&repo=Tasks-Manager&bg_color=F1F6F9&icon_color=1FA0D2&border_color=0000BB&text_color=000000&title_color=1FA0E9&height=190"/>
       <a>
     </td>
   </tr>
