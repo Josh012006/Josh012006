@@ -174,7 +174,7 @@ I'm continuously expanding my knowledge through self-learning and practical proj
       <img src="https://github-readme-stats-neon-beta-18.vercel.app/api?username=Josh012006&show_icons=true&langs_count=8&count_private=true&layout=compact&bg_color=F1F6F9&text_color=000000&border_color=0000BB&title_color=1FA0D2&icon_color=1FA0D2" alt="Josh's GitHub stats" style="max-width: 100%; height: auto;">
     </td>
     <td style="width: 50%; text-align: center;">
-      <img src="https://github-readme-stats-neon-beta-18.vercel.app/api/top-langs/?username=Josh012006&langs_count=10&count_private=true&layout=pie&title_color=1FA0D2&bg_color=F1F6F9&text_color=000000&border_color=0000BB" alt="Top Langs" style="max-width: 100%; height: auto;">
+      <img src="https://github-readme-stats-neon-beta-18.vercel.app/api/top-langs/?username=Josh012006&langs_count=8&count_private=true&layout=pie&title_color=1FA0D2&bg_color=F1F6F9&text_color=000000&border_color=0000BB" alt="Top Langs" style="max-width: 100%; height: auto;">
     </td>
   </tr>
 </table>
