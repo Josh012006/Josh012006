@@ -12,7 +12,7 @@ You can contact me via :
 
 - Email: **[josuesmjr.mongan@gmail.com](mailto:josuesmjr.mongan@gmail.com)**  
 - LinkedIn: **[My Profile](https://www.linkedin.com/in/josu%C3%A9-mongan-a7b6242b8/)**
-- Portfolio: **[My Website](https://josue-mongan.vercel.app/)**
+<!-- - Portfolio: **[My Website](https://josue-mongan.vercel.app/)** -->
 
 ---
 
