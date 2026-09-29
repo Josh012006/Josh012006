@@ -1,172 +1,44 @@
 <div align=center>
   <h1>Hi there 👋🏼, I'm Josué</h1> 
-  <h3>Software developer passionate about automation</h3>
+  <h3>Passionate about autonomous learning, robotics and molecular computing</h3>
 </div>
 
-<div align="center"> <h3>Welcome to My Coding Journey 🚀</h3> <p>I'm Josué, a passionate full-stack developer and aspiring intelligent systems developer with a love for creating meaningful software solutions. Whether it's designing seamless web applications, building game engines in C++, studying functions in Haskell, or exploring the depths of computer vision, I'm always eager to learn, innovate, and share. Dive into my projects and see how I bring ideas to life through code!</p> </div>
 
-- 🚀 I'm currently pursuing a **Bachelor of Computer Science**. I've been **sharpening my skills in software development** while working on an exciting **2D mini-game project** 🎮 in **C++** and a **robotic system prototyping language** in **Haskell**. Additionally, I'm diving into **React Native**, **Qt** and **OpenCV** to broaden my expertise in application development and computer vision.  
-- ⭐ Check out my top repositories! Feel free to contribute or leave a star 💫—your feedback means a lot to me.
+<div align="center">I am an intelligent systems developer with a love for <b>robotics and its applications to the biomedical field</b>. So I am really interested in all the different facets of <b>reinforcement learning</b> and its use to train autonomous agents. I'm also particularly invested in how we can <b>implement robotics in molecular substrates like DNA</b>. </div>
+  
+<br/>
+
+<div>Most of my recent work revolves around designing custom reinforcement learning pipelines, building simulation environments, and studying autonomous agents' performance. I focus on subjects like <i><b>Deep-RL, goal-conditioned RL, sequential decision making and algorithms optimization</b></i>. And at the same time I explore how I can <i><b>use Reinforcement Learning to build healthcare oriented solutions</b></i>.</div>
+
+<br/>
+
+🚀 I'm currently working on **autonomous control and navigation with goal-condition reinforcement learning** in my project [\[NanoGoal-RL\]](https://github.com/Josh012006/NanoGoal-RL). I've been **sharpening my skills in algorithm optimization** through [\[PPO-Leftovers\]](https://github.com/Josh012006/PPO-Leftovers). And in parallel, I'm exploring how I can recover some kind of reward [**Caenorhabditis elegans**](https://fr.wikipedia.org/wiki/Caenorhabditis_elegans) is optimizing in [\[Swim-IRL\]](https://github.com/Josh012006/Swim-IRL).
+
+I have many more projects that I pinned just below. Check them out and let me know what you think. Also feel free to contribute or leave a star if you appreciate my work !
 
 You can contact me via : 
 
 - Email: **[josuesmjr.mongan@gmail.com](mailto:josuesmjr.mongan@gmail.com)**  
-- LinkedIn: **[My Profile](https://www.linkedin.com/in/josu%C3%A9-mongan-a7b6242b8/)**
-<!-- - Portfolio: **[My Website](https://josue-mongan.vercel.app/)** -->
 
 ---
 
-# Current projects
-
-<table align=center style="width: 100%;">
-  <tr>
-    <td>
-      <a href="https://github.com/Josh012006/NanoGoal-RL">
-        <img src="https://github-readme-stats-neon-beta-18.vercel.app/api/pin/?username=Josh012006&repo=NanoGoal-RL&bg_color=F1F6F9&icon_color=1FA0D2&border_color=0000BB&text_color=000000&title_color=1FA0E9&height=190"/>
-      <a>
-    </td>
-    <td>
-      <a href="https://github.com/Josh012006/Swim-IRL">
-        <img src="https://github-readme-stats-neon-beta-18.vercel.app/api/pin/?username=Josh012006&repo=Swim-IRL&bg_color=F1F6F9&icon_color=1FA0D2&border_color=0000BB&text_color=000000&title_color=1FA0E9&height=190"/>
-      <a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/Josh012006/PPO-Leftovers">
-        <img src="https://github-readme-stats-neon-beta-18.vercel.app/api/pin/?username=Josh012006&repo=PPO-Leftovers&bg_color=F1F6F9&icon_color=1FA0D2&border_color=0000BB&text_color=000000&title_color=1FA0E9&height=190"/>
-      <a>
-    </td>
-    <td>
-      <a href="https://github.com/Josh012006/RPG-Game">
-        <img src="https://github-readme-stats-neon-beta-18.vercel.app/api/pin/?username=Josh012006&repo=RPG-Game&bg_color=F1F6F9&icon_color=1FA0D2&border_color=0000BB&text_color=000000&title_color=1FA0E9&height=190"/>
-      <a>
-    </td>
-  </tr>
-</table>
-
-
-# Top repositories
-
-<table align=center style="width: 100%;">
-  <tr>
-    <td>
-      <a href="https://github.com/Josh012006/OpenX-Embodiment-Datasets-Visualization">
-        <img src="https://github-readme-stats-neon-beta-18.vercel.app/api/pin/?username=Josh012006&repo=OpenX-Embodiment-Datasets-Visualization&bg_color=F1F6F9&icon_color=1FA0D2&title_color=1FA0E9&text_color=000000&height=190&border_color=0000BB"/>
-      <a>
-    </td>
-    <td>
-      <a href="https://github.com/Josh012006/NanoGoal-RL">
-        <img src="https://github-readme-stats-neon-beta-18.vercel.app/api/pin/?username=Josh012006&repo=NanoGoal-RL&bg_color=F1F6F9&icon_color=1FA0D2&title_color=1FA0E9&text_color=000000&border_color=0000BB&height=190"/>
-      <a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/Josh012006/IFT2255-ma-ville-bugbusters">
-        <img src="https://github-readme-stats-neon-beta-18.vercel.app/api/pin/?username=Josh012006&repo=IFT2255-ma-ville-bugbusters&bg_color=F1F6F9&icon_color=1FA0D2&border_color=0000BB&text_color=000000&title_color=1FA0E9&height=190"/>
-      <a>
-    </td>
-    <td>
-      <a href="https://github.com/Josh012006/Appointment-App">
-        <img src="https://github-readme-stats-neon-beta-18.vercel.app/api/pin/?username=Josh012006&repo=Appointment-App&bg_color=F1F6F9&icon_color=1FA0D2&border_color=0000BB&text_color=000000&title_color=1FA0E9&height=190"/>
-      <a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/Josh012006/Jeu-de-Glisse">
-        <img src="https://github-readme-stats-neon-beta-18.vercel.app/api/pin/?username=Josh012006&repo=Jeu-de-Glisse&bg_color=F1F6F9&icon_color=1FA0D2&border_color=0000BB&text_color=000000&title_color=1FA0E9&height=190"/>
-      <a>
-    </td>
-    <td>
-      <a href="https://github.com/Josh012006/Pythagorean-Tree">
-        <img src="https://github-readme-stats-neon-beta-18.vercel.app/api/pin/?username=Josh012006&repo=Pythagorean-Tree&bg_color=F1F6F9&icon_color=1FA0D2&border_color=0000BB&text_color=000000&title_color=1FA0E9&height=190"/>
-      <a>
-    </td>
-  </tr>
-</table>
-
 <br />
 
-# 💪 Skills Overview:
+# 💪 Skills:
+I have experience working with reinforcement learning frameworks like **Gymnasium** and **Stable-Baselines3**. I understand and I can write code in **Python** and **C/C++**. On the engineering side, I am well-versed in **Linux/Bash**. Most of my work is assisted by coding agents. So I also know how to use them efficiently and in a secure way to learn and to work.
 
-## Web Development:
-
-- Proficient in **HTML5**, **CSS3**, and JavaScript (**ES6**, **DOM manipulation**) with frameworks like **Bootstrap** and **Tailwind CSS**.  
-- Experienced in creating server-side applications with **Node.js** and **Express.js**, including rendering views using **Handlebars** and **Pug**.  
-- Skilled in building responsive and interactive front-end applications with **React** and **Redux** (**Redux Toolkit**) and working with **TypeScript** for type-safe projects.  
-- Capable of developing full-stack applications using the **MERN** stack (**MongoDB, Express, React, Node.js**) and building scalable apps with **Next.js**.
-- Able to develop **Vue.js** applications and build full-stack applications with **Nuxt.js**.
-
-<div align="left">
-    <img src="https://skillicons.dev/icons?i=html,css,svg,js,ts,tailwind,bootstrap,sass,react,vue,nodejs,express,nextjs,nuxtjs,materialui,vite,redux,pinia,jquery,vercel,docker" />
-</div>
-
-<br />
-
-I'm also proficient in database management:
-  - **SQL**: Expertise in DDL, DML, and DQL operations.  
-  - **NoSQL**: Hands-on experience with **MongoDB**, **Mongoose** and **Morphia**.
-  - **Strapi**: Can use this headless CMS to manage data in a **Nuxt.js** application.
-
-<div align="left">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,postman" />
-</div>
-
-
-## System, Software Engineering & Graphics:
-
-- Strong foundation in **C++** (**OOP**, **STL**, **SFML**) and **C**, the first language I learned. 
-- Able to write clean and sustainable code in **Java**.
-- Able to write simple and efficient prototypes in **Python**.
-- Understands **functional programming** and uses **Haskell** to write minimal and optimized code.
-- Can also use material and system languages like **LMC**, **Bash** and **VHDL**.
-
-<div align="left">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,haskell,bash" />
-</div>
-
-<br />
-
-I also love exploring with the **graphic and vizualization** pipelines (raster pipeline, ray tracing, path tracing). During my computer graphics course, I learned **rendering, modeling, shading and lighting** using **C++**, **GLSL** and the **Three.js** library.
-
-<div align="left">
-    <img src="https://skillicons.dev/icons?i=threejs" />
-</div>
-
-
-## Additional Skills:
-
-- Able to write research papers with **LaTeX**.
-- Ability to work with many different **tools and IDE**.
-
-<div align="left">
-    <img src="https://skillicons.dev/icons?i=latex,github,git,npm,yarn,cmake,vscode,pycharm,clion,idea" />
-</div>
-
-## Currently Learning
-
-I'm continuously expanding my knowledge through self-learning and practical projects. Right now I'm playing around with : 
-
-<div align="left">
-    <img src="https://skillicons.dev/icons?i=opencv,qt" />
-</div>
-
-<br />
+Apart from that, I have 2+ years of experience in front end web development and a bit of experience when it comes to the back-end. So I can also design **React and Vue** web applications.
 
 # 🌟 What I'm Looking For:
-- **Opportunity Alert**: I'm looking for **impactful and interesting projects** to work on in other to gain **connections and hands-on experience**.  
+I'm up to work on exciting projects that align with my interests.
 
+# 🎉 Fun Facts about me:
+When I'm not coding, I like to play a bit of 🎹 **piano** (I'm not that good though 😅) or watching **japanese animation pieces (animes) ** 🇯🇵 🈺. My favorite anime is called **Code Geass**, give it a try. Also I'm a **christian** always trying to bring **👑 Jesus's peace and love** everywhere I go. I'm particularly fond of **doing things in a simple way**. And lastly, I enjoy teaching and sharing my knowledge with others.
 
-# 🎉 Fun Facts:
-- I'm passionate about **computer science** and have a knack for taking apart and reassembling electronic devices (don't leave your gadgets lying around!).
-- I'm a **christian** always trying to introduce **👑 Jesus's peace and love** everywhere I go.
-- When I'm not coding, you can find me playing 🎹 **piano**, buried in a great 📚 **book**, or exploring new **animes** 🇯🇵 🈺.
 
 <br />
 
-# My activities
+# My coding reports
 
 <table align=center style="width: 100%;">
   <tr>
@@ -189,23 +61,6 @@ I'm continuously expanding my knowledge through self-learning and practical proj
   </a>
 </p>
 
-<br />
-
-# Some of my achievements
-
-## Websites links
-  - Edabit: https://edabit.com/user/X6cvktRthAp3xdGBw
-  - CodeWars: https://www.codewars.com/users/Josh012006  
-  - Codingame: https://www.codingame.com/profile/6b5fb48d2ae5c775c85fb627283309be6978985
-  - Codecademy: https://www.codecademy.com/profiles/css4797044962
-  - HackerRank: https://www.hackerrank.com/profile/josuesmjr_mongan
-
-## My badges
-
-  [![Codewars](https://www.codewars.com/users/Josh012006/badges/micro)](https://www.codewars.com/users/Josh012006)
-  [![Tublian](https://tublian-newsletter-assets.s3.amazonaws.com/ai_internship_badge.svg)](https://www.tublian.com/profile/Josh012006)
-
-  You can find all my certificates and proofs on my Linkedin Profile page.
 
 
 
