@@ -10,6 +10,8 @@
 
 <div>Most of my recent work revolves around designing custom reinforcement learning pipelines, building simulation environments, and studying autonomous agents' performance. I focus on subjects like <i><b>Deep-RL, goal-conditioned RL, sequential decision making and algorithms optimization</b></i>. And at the same time I explore how I can <i><b>use Reinforcement Learning to build healthcare oriented solutions</b></i>.</div>
 
+<br/>
+
 <div align="center"><img src="rl-agent.svg" alt="An RL agent going from random exploration to the shortest path" width="720"/></div>
 
 <br/>
@@ -32,19 +34,16 @@ Apart from that, I have 2+ years of experience in front end web development and 
 I'm up to work on exciting projects that align with my interests.
 
 ## 🎉 Fun Facts about me:
-When I'm not coding, I like to play a bit of 🎹 **piano** (I'm not that good though 😅) or watching **japanese animation pieces (animes)** 🇯🇵 🈺. My favorite anime is called **Code Geass**, give it a try. Also I'm a **christian** always trying to bring **👑 Jesus's peace and love** everywhere I go. I'm particularly fond of **doing things in a simple way**. And lastly, I enjoy teaching and sharing my knowledge with others.
-
-
-<br />
+When I'm not coding, I like to play a bit of 🎹 **piano** (I'm not that good though 😅) or watching **japanese animation pieces (animes)** 🇯🇵 🈺. My favorite anime is called **Code Geass**, give it a try! Also I'm a **christian** always trying to bring **👑 Jesus's peace and love** everywhere I go. I'm particularly fond of **doing things in a simple way**. And lastly, I enjoy teaching and sharing my knowledge with others.
 
 ## My activity reports
 
-<table>
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/Josh012006/github-tools/main/dist/languages.svg" width="100%" alt="most used languages"></td>
-    <td><img src="https://raw.githubusercontent.com/Josh012006/github-tools/main/dist/recent-languages.svg" width="100%" alt="most recently used languages"></td>  
-  </tr>
-</table>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Josh012006/github-tools/main/dist/languages.svg" width="80%" alt="commit stats">
+  <img src="https://raw.githubusercontent.com/Josh012006/github-tools/main/dist/recent-languages.svg" width="80%" alt="commit stats">
+</p>
+
+<br />
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Josh012006/github-tools/main/dist/streak-stats.svg" width="80%" alt="commit stats">
