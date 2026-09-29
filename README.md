@@ -10,6 +10,8 @@
 
 <div>Most of my recent work revolves around designing custom reinforcement learning pipelines, building simulation environments, and studying autonomous agents' performance. I focus on subjects like <i><b>Deep-RL, goal-conditioned RL, sequential decision making and algorithms optimization</b></i>. And at the same time I explore how I can <i><b>use Reinforcement Learning to build healthcare oriented solutions</b></i>.</div>
 
+<div align="center"><img src="rl-agent.svg" alt="An RL agent going from random exploration to the shortest path" width="720"/></div>
+
 <br/>
 
 🚀 I'm currently working on **autonomous control and navigation with goal-condition reinforcement learning** in my project [\[NanoGoal-RL\]](https://github.com/Josh012006/NanoGoal-RL). I've been **sharpening my skills in algorithm optimization** through [\[PPO-Leftovers\]](https://github.com/Josh012006/PPO-Leftovers). And in parallel, I'm exploring how I can recover some kind of reward [**Caenorhabditis elegans**](https://fr.wikipedia.org/wiki/Caenorhabditis_elegans) is optimizing in [\[Swim-IRL\]](https://github.com/Josh012006/Swim-IRL).
@@ -20,19 +22,16 @@ You can contact me via :
 
 - Email: **[josuesmjr.mongan@gmail.com](mailto:josuesmjr.mongan@gmail.com)**  
 
----
 
-<br />
-
-# 💪 Skills:
+## 💪 Skills:
 I have experience working with reinforcement learning frameworks like **Gymnasium** and **Stable-Baselines3**. I understand and I can write code in **Python** and **C/C++**. On the engineering side, I am well-versed in **Linux/Bash**. Most of my work is assisted by coding agents. So I also know how to use them efficiently and in a secure way to learn and to work.
 
 Apart from that, I have 2+ years of experience in front end web development and a bit of experience when it comes to the back-end. So I can also design **React and Vue** web applications.
 
-# 🌟 What I'm Looking For:
+## 🌟 What I'm Looking For:
 I'm up to work on exciting projects that align with my interests.
 
-# 🎉 Fun Facts about me:
+## 🎉 Fun Facts about me:
 When I'm not coding, I like to play a bit of 🎹 **piano** (I'm not that good though 😅) or watching **japanese animation pieces (animes) ** 🇯🇵 🈺. My favorite anime is called **Code Geass**, give it a try. Also I'm a **christian** always trying to bring **👑 Jesus's peace and love** everywhere I go. I'm particularly fond of **doing things in a simple way**. And lastly, I enjoy teaching and sharing my knowledge with others.
 
 
