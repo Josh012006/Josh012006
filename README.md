@@ -46,8 +46,8 @@ When I'm not coding, I like to play a bit of 🎹 **piano** (I'm not that good t
 <br />
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Josh012006/github-tools/main/dist/languages.svg" width="80%" alt="commit stats">
   <img src="https://raw.githubusercontent.com/Josh012006/github-tools/main/dist/recent-languages.svg" width="80%" alt="commit stats">
+  <img src="https://raw.githubusercontent.com/Josh012006/github-tools/main/dist/languages.svg" width="80%" alt="commit stats">
 </p>
 
 
