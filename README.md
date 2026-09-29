@@ -39,16 +39,18 @@ When I'm not coding, I like to play a bit of 🎹 **piano** (I'm not that good t
 ## My activity reports
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Josh012006/github-tools/main/dist/languages.svg" width="80%" alt="commit stats">
-  <img src="https://raw.githubusercontent.com/Josh012006/github-tools/main/dist/recent-languages.svg" width="80%" alt="commit stats">
+  <img src="https://raw.githubusercontent.com/Josh012006/github-tools/main/dist/streak-stats.svg" width="80%" alt="commit stats">
+  <img src="https://raw.githubusercontent.com/Josh012006/github-tools/main/dist/activity-graph.svg" width="80%" alt="activity graph">
 </p>
 
 <br />
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Josh012006/github-tools/main/dist/streak-stats.svg" width="80%" alt="commit stats">
-  <img src="https://raw.githubusercontent.com/Josh012006/github-tools/main/dist/activity-graph.svg" width="80%" alt="activity graph">
+  <img src="https://raw.githubusercontent.com/Josh012006/github-tools/main/dist/languages.svg" width="80%" alt="commit stats">
+  <img src="https://raw.githubusercontent.com/Josh012006/github-tools/main/dist/recent-languages.svg" width="80%" alt="commit stats">
 </p>
+
+
 
 
 
