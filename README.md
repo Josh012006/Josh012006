@@ -32,30 +32,23 @@ Apart from that, I have 2+ years of experience in front end web development and 
 I'm up to work on exciting projects that align with my interests.
 
 ## 🎉 Fun Facts about me:
-When I'm not coding, I like to play a bit of 🎹 **piano** (I'm not that good though 😅) or watching **japanese animation pieces (animes) ** 🇯🇵 🈺. My favorite anime is called **Code Geass**, give it a try. Also I'm a **christian** always trying to bring **👑 Jesus's peace and love** everywhere I go. I'm particularly fond of **doing things in a simple way**. And lastly, I enjoy teaching and sharing my knowledge with others.
+When I'm not coding, I like to play a bit of 🎹 **piano** (I'm not that good though 😅) or watching **japanese animation pieces (animes)** 🇯🇵 🈺. My favorite anime is called **Code Geass**, give it a try. Also I'm a **christian** always trying to bring **👑 Jesus's peace and love** everywhere I go. I'm particularly fond of **doing things in a simple way**. And lastly, I enjoy teaching and sharing my knowledge with others.
 
 
 <br />
 
-# My coding reports
+## My activity reports
 
-<table align=center style="width: 100%;">
+<table>
   <tr>
-    <td style="width: 50%; text-align: center;">
-      <img src="https://github-readme-stats-neon-beta-18.vercel.app/api?username=Josh012006&show_icons=true&langs_count=8&count_private=true&layout=compact&bg_color=F1F6F9&text_color=000000&border_color=0000BB&title_color=1FA0D2&icon_color=1FA0D2" alt="Josh's GitHub stats" style="max-width: 100%; height: auto;">
-    </td>
-    <td style="width: 50%; text-align: center;">
-      <img src="https://github-readme-stats-neon-beta-18.vercel.app/api/top-langs/?username=Josh012006&langs_count=8&count_private=true&layout=pie&title_color=1FA0D2&bg_color=F1F6F9&text_color=000000&border_color=0000BB" alt="Top Langs" style="max-width: 100%; height: auto;">
-    </td>
+    <td><img src="https://raw.githubusercontent.com/Josh012006/github-tools/main/dist/languages.svg" width="100%" alt="most used languages"></td>
+    <td><img src="https://raw.githubusercontent.com/Josh012006/github-tools/main/dist/recent-languages.svg" width="100%" alt="most recently used languages"></td>  
   </tr>
 </table>
 
-<hr style="width: 50%; margin: auto;">
-
 <p align="center">
-    <img
-      src="https://raw.githubusercontent.com/Josh012006/github-tools/main/dist/activity-graph.svg"
-      width="95%" alt="activity graph">
+  <img src="https://raw.githubusercontent.com/Josh012006/github-tools/main/dist/streak-stats.svg" width="80%" alt="commit stats">
+  <img src="https://raw.githubusercontent.com/Josh012006/github-tools/main/dist/activity-graph.svg" width="80%" alt="activity graph">
 </p>
 
 
