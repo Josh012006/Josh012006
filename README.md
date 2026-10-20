@@ -8,6 +8,14 @@
   
 <br/>
 
+<div align="center">
+  <a href="https://hub.xerj.org/contributors/Josh012006">
+    <img src="https://hub.xerj.org/contributors/Josh012006/badge.svg" alt="XERJ Corpus Hub contributor"/>
+  </a>
+</div>
+
+<br/>
+
 <div>Most of my recent work revolves around designing custom reinforcement learning pipelines, building simulation environments, and studying autonomous agents' performance. I focus on subjects like <i><b>Deep-RL, goal-conditioned RL, sequential decision making and algorithms optimization</b></i>. And at the same time I explore how I can <i><b>use Reinforcement Learning to build healthcare oriented solutions</b></i>.</div>
 
 <br/>
