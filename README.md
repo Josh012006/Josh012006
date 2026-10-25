@@ -8,7 +8,7 @@
 
 <br/>
 
-<div>Most of my recent work revolves around designing custom reinforcement learning pipelines, building simulation environments, and studying autonomous agents' performance. I focus on subjects like <i><b>Deep-RL, goal-conditioned RL, sequential decision making and algorithms optimization</b></i>. And at the same time I explore how I can <i><b>use Reinforcement Learning to build healthcare oriented solutions</b></i>.</div>
+<div>Most of my recent work revolves around designing custom reinforcement learning pipelines, investigating the theoretical properties of RL algorithms, and studying autonomous agents' learning dynamics and performance. I focus on subjects like <i><b>Sequential and long-horizon decision making, Deep RL, goal-conditioned RL, Inverse Reinforcement Learning (IRL) and algorithms optimization</b></i>. And at the same time, I explore <i><b>the role of Reinforcement Learning in advancing medical robotics, from large-scale robotic systems to micro- and nanorobotics.</b></i>
 
 <br/>
 
