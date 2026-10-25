@@ -4,11 +4,15 @@
 </div>
 
 
-<div align="center">I am an intelligent systems developer with a love for <b>robotics and its applications to the biomedical field</b>. So I am really interested in all the different facets of <b>reinforcement learning</b> and its use to train autonomous agents. I'm also particularly invested in how we can <b>implement robotics in molecular substrates like DNA</b>. </div>
+<div align="center">I am an intelligent systems developer with a passion for <b>reinforcement learning, robotics, and their applications to the biomedical field</b>. I am interested in the different facets of reinforcement learning and its use in training autonomous agents, as well as in exploring both <b>medical robotics and the field of molecular robotics</b>. In particular, I am interested in how reinforcement learning can advance robotic applications in medicine, from large-scale robotic systems to micro- and nanorobotics.</div>
 
 <br/>
 
-<div>Most of my recent work revolves around designing custom reinforcement learning pipelines, investigating the theoretical properties of RL algorithms, and studying autonomous agents' learning dynamics and performance. I focus on subjects like <i><b>Sequential and long-horizon decision making, Deep RL, goal-conditioned RL, Inverse Reinforcement Learning (IRL) and algorithms optimization</b></i>. And at the same time, I explore <i><b>the role of Reinforcement Learning in advancing medical robotics, from large-scale robotic systems to micro- and nanorobotics.</b></i>
+<div>Most of my recent work revolves around designing custom reinforcement learning pipelines, investigating the theoretical properties of RL algorithms, studying autonomous agents' learning dynamics, working with vision-language-action models (VLAs), and exploring the possibility of encoding reinforcement learning in living matter.</div>
+
+<br/>
+
+<div>My research interests include <i><b>sequential and long-horizon decision-making, deep reinforcement learning, goal-conditioned RL, inverse reinforcement learning (IRL), and algorithm optimization</b></i>. I am particularly interested in understanding how these approaches can improve the learning and decision-making capabilities of autonomous agents. From a more biologically oriented perspective, I’m also drawn to <i><b>DNA neural networks and chemical reaction networks</b></i>, particularly their potential as alternative computational paradigms.</div>
 
 <br/>
 
