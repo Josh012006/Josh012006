@@ -5,14 +5,6 @@
 
 
 <div align="center">I am an intelligent systems developer with a love for <b>robotics and its applications to the biomedical field</b>. So I am really interested in all the different facets of <b>reinforcement learning</b> and its use to train autonomous agents. I'm also particularly invested in how we can <b>implement robotics in molecular substrates like DNA</b>. </div>
-  
-<br/>
-
-<div align="center">
-  <a href="https://hub.xerj.org/contributors/Josh012006">
-    <img src="https://hub.xerj.org/contributors/Josh012006/badge.svg" alt="XERJ Corpus Hub contributor"/>
-  </a>
-</div>
 
 <br/>
 
